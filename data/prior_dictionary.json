@@ -1,0 +1,3662 @@
+{
+      "please": {
+            "prior_all": 0.11875947915289356,
+            "prior_segments": 0.02138232466999171,
+            "prior_syllables": 0.05751451964094041,
+            "prior_context": 0.03986263484196161
+      },
+      "when's": {
+            "prior_all": 0.13187525000044872,
+            "prior_segments": 0.020560688828170193,
+            "prior_syllables": 0.06281315547460252,
+            "prior_context": 0.048501405697676414
+      },
+      "the": {
+            "prior_all": 3.125022878761294,
+            "prior_segments": 0.6620086186842217,
+            "prior_syllables": 1.303876058427728,
+            "prior_context": 1.159138201649345
+      },
+      "last": {
+            "prior_all": 0.11616122301033553,
+            "prior_segments": 0.01561195010318056,
+            "prior_syllables": 0.058302502002759424,
+            "prior_context": 0.04224677090439548
+      },
+      "time": {
+            "prior_all": 0.44486628005220724,
+            "prior_segments": 0.10244604740395634,
+            "prior_syllables": 0.17866075909100923,
+            "prior_context": 0.16375947355724277
+      },
+      "you": {
+            "prior_all": 1.963313108432832,
+            "prior_segments": 0.5814059218165485,
+            "prior_syllables": 0.6233167408286636,
+            "prior_context": 0.7585904457876191
+      },
+      "thought": {
+            "prior_all": 0.5140100510733107,
+            "prior_segments": 0.15177287048931049,
+            "prior_syllables": 0.1985859614317581,
+            "prior_context": 0.1636512191522414
+      },
+      "a": {
+            "prior_all": 1.7837646920658023,
+            "prior_segments": 0.29556443935559884,
+            "prior_syllables": 0.7053360624180682,
+            "prior_context": 0.7828641902921326
+      },
+      "game": {
+            "prior_all": 0.8399239995674366,
+            "prior_segments": 0.2623169575808813,
+            "prior_syllables": 0.3021195973404393,
+            "prior_context": 0.2754874446461147
+      },
+      "was": {
+            "prior_all": 1.2322970815713794,
+            "prior_segments": 0.28725495263229306,
+            "prior_syllables": 0.5172991863710406,
+            "prior_context": 0.42774294256804946
+      },
+      "fun": {
+            "prior_all": 0.7548605380472463,
+            "prior_segments": 0.19846522153011603,
+            "prior_syllables": 0.2894436878709208,
+            "prior_context": 0.26695162864621086
+      },
+      "but": {
+            "prior_all": 1.3598834315005137,
+            "prior_segments": 0.3710778844966397,
+            "prior_syllables": 0.52050840197086,
+            "prior_context": 0.46829714503301556
+      },
+      "you're": {
+            "prior_all": 0.7726951220080432,
+            "prior_segments": 0.17494003807607175,
+            "prior_syllables": 0.2584143913137701,
+            "prior_context": 0.3393406926182014
+      },
+      "going": {
+            "prior_all": 0.9446969356567448,
+            "prior_segments": 0.3139349274815906,
+            "prior_syllables": 0.3583560475244056,
+            "prior_context": 0.2724059606507467
+      },
+      "to": {
+            "prior_all": 2.812629941794619,
+            "prior_segments": 0.5007164474508147,
+            "prior_syllables": 1.1608660790050211,
+            "prior_context": 1.151047415338782
+      },
+      "lose": {
+            "prior_all": 0.6824841124344159,
+            "prior_segments": 0.17459201948629918,
+            "prior_syllables": 0.26088669356228145,
+            "prior_context": 0.2470053993858361
+      },
+      "blank": {
+            "prior_all": 0.14358712776591287,
+            "prior_segments": 0.02583960938942209,
+            "prior_syllables": 0.06522657326140871,
+            "prior_context": 0.05252094511508218
+      },
+      "doesn't": {
+            "prior_all": 0.5637697214567285,
+            "prior_segments": 0.15878563929922818,
+            "prior_syllables": 0.19783524731282004,
+            "prior_context": 0.20714883484468108
+      },
+      "this": {
+            "prior_all": 1.3057478724401868,
+            "prior_segments": 0.3234589281679301,
+            "prior_syllables": 0.5277179502447588,
+            "prior_context": 0.45457099402749696
+      },
+      "is": {
+            "prior_all": 1.5040329224043765,
+            "prior_segments": 0.30979993530618016,
+            "prior_syllables": 0.6251899741987004,
+            "prior_context": 0.5690430128994962
+      },
+      "what": {
+            "prior_all": 1.5551868736287633,
+            "prior_segments": 0.4170279169584492,
+            "prior_syllables": 0.5864156826355805,
+            "prior_context": 0.551743274034727
+      },
+      "double": {
+            "prior_all": 0.23656625043745944,
+            "prior_segments": 0.02712139258431252,
+            "prior_syllables": 0.12508308099483034,
+            "prior_context": 0.08436177685831614
+      },
+      "jump": {
+            "prior_all": 0.24188674948457958,
+            "prior_segments": 0.049241566546649525,
+            "prior_syllables": 0.10813439708257323,
+            "prior_context": 0.08451078585535698
+      },
+      "you've": {
+            "prior_all": 0.3173640787934926,
+            "prior_segments": 0.08415549043651205,
+            "prior_syllables": 0.10200280668865531,
+            "prior_context": 0.13120578166832544
+      },
+      "gotta": {
+            "prior_all": 0.12363641139314695,
+            "prior_segments": 0.018687800213423398,
+            "prior_syllables": 0.05168692970975051,
+            "prior_context": 0.053261681469973066
+      },
+      "be": {
+            "prior_all": 0.5660567275309352,
+            "prior_segments": 0.13645874662201882,
+            "prior_syllables": 0.20587504493345427,
+            "prior_context": 0.22372293597546167
+      },
+      "kidding": {
+            "prior_all": 0.12667935379460843,
+            "prior_segments": 0.016006880488319455,
+            "prior_syllables": 0.06430528516023869,
+            "prior_context": 0.04636718814605049
+      },
+      "cheater": {
+            "prior_all": 0.13296476192425333,
+            "prior_segments": 0.02430241086883084,
+            "prior_syllables": 0.06573067502071485,
+            "prior_context": 0.042931676034707524
+      },
+      "i": {
+            "prior_all": 1.8039966052704257,
+            "prior_segments": 0.36165819711251795,
+            "prior_syllables": 0.6201249576550028,
+            "prior_context": 0.8222134505029084
+      },
+      "that": {
+            "prior_all": 1.6121408569588753,
+            "prior_segments": 0.3800314424184214,
+            "prior_syllables": 0.6425071074597173,
+            "prior_context": 0.5896023070807348
+      },
+      "ability": {
+            "prior_all": 0.16287620880710063,
+            "prior_segments": 0.020802641682617928,
+            "prior_syllables": 0.08914000909973849,
+            "prior_context": 0.05293355802474414
+      },
+      "only": {
+            "prior_all": 0.4448483222063992,
+            "prior_segments": 0.10410322994873578,
+            "prior_syllables": 0.1994831743739595,
+            "prior_context": 0.14126191788370424
+      },
+      "few": {
+            "prior_all": 0.10455890852473121,
+            "prior_segments": 0.01771533938110662,
+            "prior_syllables": 0.04507772289134822,
+            "prior_context": 0.04176584625227643
+      },
+      "warbeasts": {
+            "prior_all": 0.6708175422920747,
+            "prior_segments": 0.1583882132038201,
+            "prior_syllables": 0.29092675550316993,
+            "prior_context": 0.22150257358508327
+      },
+      "possess": {
+            "prior_all": 0.1473849482431551,
+            "prior_segments": 0.02299311483886235,
+            "prior_syllables": 0.07720079831817557,
+            "prior_context": 0.04719103508611741
+      },
+      "overcome": {
+            "prior_all": 0.15460965131404336,
+            "prior_segments": 0.024356452677842835,
+            "prior_syllables": 0.07954090392917237,
+            "prior_context": 0.05071229470702829
+      },
+      "their": {
+            "prior_all": 0.563014987450782,
+            "prior_segments": 0.10706287915637884,
+            "prior_syllables": 0.2333497388072113,
+            "prior_context": 0.2226023694871919
+      },
+      "own": {
+            "prior_all": 0.16377458781634247,
+            "prior_segments": 0.021103771470774847,
+            "prior_syllables": 0.06979111930503797,
+            "prior_context": 0.07287969704053002
+      },
+      "physical": {
+            "prior_all": 0.16501018747735596,
+            "prior_segments": 0.021974593841320528,
+            "prior_syllables": 0.08554217359991276,
+            "prior_context": 0.05749342003612281
+      },
+      "limits": {
+            "prior_all": 0.2666470219934005,
+            "prior_segments": 0.07454425215156754,
+            "prior_syllables": 0.10254216301547867,
+            "prior_context": 0.08956060682635397
+      },
+      "blood": {
+            "prior_all": 0.2285776982341924,
+            "prior_segments": 0.04369908208006229,
+            "prior_syllables": 0.09839630377099957,
+            "prior_context": 0.0864823123831302
+      },
+      "destruction": {
+            "prior_all": 0.3352897282975641,
+            "prior_segments": 0.072566952999848,
+            "prior_syllables": 0.15200999195859324,
+            "prior_context": 0.11071278333912314
+      },
+      "won't": {
+            "prior_all": 0.5259678790623322,
+            "prior_segments": 0.12570457476867616,
+            "prior_syllables": 0.2086826717239494,
+            "prior_context": 0.1915806325697074
+      },
+      "then": {
+            "prior_all": 0.3777825842859914,
+            "prior_segments": 0.08199033265050763,
+            "prior_syllables": 0.15410983553909788,
+            "prior_context": 0.1416824160963852
+      },
+      "one": {
+            "prior_all": 0.8111713526796339,
+            "prior_segments": 0.2366681144597252,
+            "prior_syllables": 0.2764168993986018,
+            "prior_context": 0.298086338821308
+      },
+      "hundred": {
+            "prior_all": 0.2617430044582686,
+            "prior_segments": 0.05908321828148739,
+            "prior_syllables": 0.11244906092909072,
+            "prior_context": 0.0902107252476902
+      },
+      "rule": {
+            "prior_all": 0.29015152443885905,
+            "prior_segments": 0.08006409159987243,
+            "prior_syllables": 0.09937131627283365,
+            "prior_context": 0.11071611656615336
+      },
+      "number": {
+            "prior_all": 0.1470300064849776,
+            "prior_segments": 0.020074494767530787,
+            "prior_syllables": 0.07452551646913878,
+            "prior_context": 0.05242999524830771
+      },
+      "ten": {
+            "prior_all": 0.43086881664602084,
+            "prior_segments": 0.14134876928596884,
+            "prior_syllables": 0.13123185958022057,
+            "prior_context": 0.15828818777983114
+      },
+      "that's": {
+            "prior_all": 1.1507764069766062,
+            "prior_segments": 0.2667211571008182,
+            "prior_syllables": 0.4599114637992964,
+            "prior_context": 0.42414378607649283
+      },
+      "not": {
+            "prior_all": 0.4535625739268414,
+            "prior_segments": 0.1043368771146565,
+            "prior_syllables": 0.18843708435488407,
+            "prior_context": 0.1607886124573012
+      },
+      "just": {
+            "prior_all": 0.3941490161488075,
+            "prior_segments": 0.09189834249101574,
+            "prior_syllables": 0.1620081381922355,
+            "prior_context": 0.14024253546555687
+      },
+      "bug": {
+            "prior_all": 0.109727333942383,
+            "prior_segments": 0.02040084227318091,
+            "prior_syllables": 0.052939541316270454,
+            "prior_context": 0.03638695035293182
+      },
+      "can't": {
+            "prior_all": 0.5438501561542912,
+            "prior_segments": 0.17072962137470235,
+            "prior_syllables": 0.18828220772355106,
+            "prior_context": 0.18483832705603848
+      },
+      "predict": {
+            "prior_all": 0.3004097419433965,
+            "prior_segments": 0.05619506519924211,
+            "prior_syllables": 0.14422336447518697,
+            "prior_context": 0.09999131226896721
+      },
+      "she'll": {
+            "prior_all": 0.20928618751919573,
+            "prior_segments": 0.03521879680089884,
+            "prior_syllables": 0.09556256152742446,
+            "prior_context": 0.07850482919087284
+      },
+      "do": {
+            "prior_all": 1.0844768699181433,
+            "prior_segments": 0.31154761729336605,
+            "prior_syllables": 0.37652093483489807,
+            "prior_context": 0.3964083177898803
+      },
+      "huh": {
+            "prior_all": 0.2454900774376659,
+            "prior_segments": 0.040907747570249765,
+            "prior_syllables": 0.10997085921446904,
+            "prior_context": 0.09461147065294744
+      },
+      "difference": {
+            "prior_all": 0.16672733145147547,
+            "prior_segments": 0.021672059298825864,
+            "prior_syllables": 0.09111503320769819,
+            "prior_context": 0.05394023894495123
+      },
+      "between": {
+            "prior_all": 0.1555330529517747,
+            "prior_segments": 0.021569509026373057,
+            "prior_syllables": 0.07380345615594405,
+            "prior_context": 0.0601600877694574
+      },
+      "strengths": {
+            "prior_all": 0.15612400090890768,
+            "prior_segments": 0.03356932077230974,
+            "prior_syllables": 0.06777315321503,
+            "prior_context": 0.05478152692156787
+      },
+      "overwhelming": {
+            "prior_all": 0.20798886298588212,
+            "prior_segments": 0.03304481775273655,
+            "prior_syllables": 0.1080248925249231,
+            "prior_context": 0.06691915270822225
+      },
+      "battle": {
+            "prior_all": 0.13604171866727327,
+            "prior_segments": 0.01855808135243194,
+            "prior_syllables": 0.0694312603880614,
+            "prior_context": 0.04805237692677997
+      },
+      "already": {
+            "prior_all": 0.1561882288270106,
+            "prior_segments": 0.019097421780042003,
+            "prior_syllables": 0.08198062464124917,
+            "prior_context": 0.055110182405719466
+      },
+      "over": {
+            "prior_all": 0.5713353287713961,
+            "prior_segments": 0.1457289335126031,
+            "prior_syllables": 0.23745807975316457,
+            "prior_context": 0.18814831550562885
+      },
+      "never": {
+            "prior_all": 0.33297465054989445,
+            "prior_segments": 0.1010525330289746,
+            "prior_syllables": 0.13045410730979906,
+            "prior_context": 0.10146801021112084
+      },
+      "expected": {
+            "prior_all": 0.32207210232000044,
+            "prior_segments": 0.061880162578178646,
+            "prior_syllables": 0.1603840643061962,
+            "prior_context": 0.09980787543562536
+      },
+      "all": {
+            "prior_all": 1.1243100834142934,
+            "prior_segments": 0.30403471315353103,
+            "prior_syllables": 0.4030415741614653,
+            "prior_context": 0.4172337960992979
+      },
+      "calculate": {
+            "prior_all": 0.33881686112682335,
+            "prior_segments": 0.06619573676854311,
+            "prior_syllables": 0.16908282238569824,
+            "prior_context": 0.10353830197258145
+      },
+      "didn't": {
+            "prior_all": 0.4169866282073216,
+            "prior_segments": 0.09347316260689817,
+            "prior_syllables": 0.1784534134449102,
+            "prior_context": 0.1450600521555135
+      },
+      "so": {
+            "prior_all": 0.7610942948795121,
+            "prior_segments": 0.18729721308538488,
+            "prior_syllables": 0.28771965596321336,
+            "prior_context": 0.28607742583091605
+      },
+      "physics": {
+            "prior_all": 0.15182085120490216,
+            "prior_segments": 0.025931166533516313,
+            "prior_syllables": 0.07289335230964461,
+            "prior_context": 0.05299633236174137
+      },
+      "equations": {
+            "prior_all": 0.18469074938674132,
+            "prior_segments": 0.034795253685532636,
+            "prior_syllables": 0.0856862779565836,
+            "prior_context": 0.06420921774462479
+      },
+      "help": {
+            "prior_all": 0.2010918269161058,
+            "prior_segments": 0.06407769203439131,
+            "prior_syllables": 0.07070993063588096,
+            "prior_context": 0.06630420424583312
+      },
+      "brother": {
+            "prior_all": 0.5065007132698891,
+            "prior_segments": 0.10780307126465813,
+            "prior_syllables": 0.22320081265726308,
+            "prior_context": 0.175496829347967
+      },
+      "leave": {
+            "prior_all": 0.2137338190849785,
+            "prior_segments": 0.03854497773661136,
+            "prior_syllables": 0.09475666879591998,
+            "prior_context": 0.08043217255244763
+      },
+      "everything": {
+            "prior_all": 0.3332638250264448,
+            "prior_segments": 0.07261687001244864,
+            "prior_syllables": 0.16071948169320646,
+            "prior_context": 0.09992747332079045
+      },
+      "me": {
+            "prior_all": 0.4979249028080534,
+            "prior_segments": 0.12313694941976674,
+            "prior_syllables": 0.17818589154977565,
+            "prior_context": 0.19660206183851084
+      },
+      "let": {
+            "prior_all": 0.28780157185914534,
+            "prior_segments": 0.04357878116239925,
+            "prior_syllables": 0.13114946332832747,
+            "prior_context": 0.11307332736841892
+      },
+      "your": {
+            "prior_all": 0.8980344723001052,
+            "prior_segments": 0.2248381070463095,
+            "prior_syllables": 0.29294021334753234,
+            "prior_context": 0.38025615190626394
+      },
+      "brother's": {
+            "prior_all": 0.1561739362690872,
+            "prior_segments": 0.0244262048878131,
+            "prior_syllables": 0.07449084996547335,
+            "prior_context": 0.057256881415800424
+      },
+      "bluffs": {
+            "prior_all": 0.140317256042105,
+            "prior_segments": 0.024045350281545395,
+            "prior_syllables": 0.0622812247517737,
+            "prior_context": 0.053990681008786
+      },
+      "take": {
+            "prior_all": 0.6844462102687874,
+            "prior_segments": 0.1881563460636521,
+            "prior_syllables": 0.2637076079128099,
+            "prior_context": 0.23258225629232535
+      },
+      "care": {
+            "prior_all": 0.11183133599788508,
+            "prior_segments": 0.017199512192827445,
+            "prior_syllables": 0.05335837732786885,
+            "prior_context": 0.041273446477188516
+      },
+      "of": {
+            "prior_all": 1.3406187714649493,
+            "prior_segments": 0.2864723656858915,
+            "prior_syllables": 0.5424706266017075,
+            "prior_context": 0.5116757791773512
+      },
+      "it": {
+            "prior_all": 1.8256029712502135,
+            "prior_segments": 0.33555259019837064,
+            "prior_syllables": 0.8131719907342059,
+            "prior_context": 0.676878390317638
+      },
+      "and": {
+            "prior_all": 2.0915669689253593,
+            "prior_segments": 0.5146830958685263,
+            "prior_syllables": 0.8398137150951384,
+            "prior_context": 0.7370701579616943
+      },
+      "try": {
+            "prior_all": 0.2717257650416589,
+            "prior_segments": 0.061881669449487975,
+            "prior_syllables": 0.11542986546660232,
+            "prior_context": 0.09441423012556881
+      },
+      "block": {
+            "prior_all": 0.12831060774380054,
+            "prior_segments": 0.023844830930372183,
+            "prior_syllables": 0.06146522238529417,
+            "prior_context": 0.043000554428134156
+      },
+      "both": {
+            "prior_all": 0.6611617561464773,
+            "prior_segments": 0.22564215778701407,
+            "prior_syllables": 0.19875131601066956,
+            "prior_context": 0.23676828234879438
+      },
+      "sides": {
+            "prior_all": 0.12702136199696504,
+            "prior_segments": 0.0197694208048729,
+            "prior_syllables": 0.05709836384213769,
+            "prior_context": 0.050153577349954355
+      },
+      "fire": {
+            "prior_all": 0.22807451545680443,
+            "prior_segments": 0.035101731125502994,
+            "prior_syllables": 0.10719865555357297,
+            "prior_context": 0.085774128777729
+      },
+      "down": {
+            "prior_all": 0.1934212662102003,
+            "prior_segments": 0.04651450794046906,
+            "prior_syllables": 0.07916707666798312,
+            "prior_context": 0.0677396816017479
+      },
+      "middle": {
+            "prior_all": 0.14462911192466435,
+            "prior_segments": 0.023651495068008618,
+            "prior_syllables": 0.07413331246061829,
+            "prior_context": 0.04684430439603739
+      },
+      "two": {
+            "prior_all": 0.24850448839027767,
+            "prior_segments": 0.032545411432703654,
+            "prior_syllables": 0.10808110327312608,
+            "prior_context": 0.1078779736844476
+      },
+      "shots": {
+            "prior_all": 0.12272040705795853,
+            "prior_segments": 0.022534458219813848,
+            "prior_syllables": 0.05413428793339923,
+            "prior_context": 0.0460516609047455
+      },
+      "no": {
+            "prior_all": 0.3854664782402211,
+            "prior_segments": 0.06145090134571293,
+            "prior_syllables": 0.15818057031379684,
+            "prior_context": 0.16583500658071204
+      },
+      "izuna": {
+            "prior_all": 0.9536633037478575,
+            "prior_segments": 0.20023939546020386,
+            "prior_syllables": 0.4649609069575173,
+            "prior_context": 0.2884630013301376
+      },
+      "after": {
+            "prior_all": 0.2332314390264643,
+            "prior_segments": 0.0419620110950509,
+            "prior_syllables": 0.11387127965868263,
+            "prior_context": 0.07739814827273096
+      },
+      "sora": {
+            "prior_all": 0.3357202545736613,
+            "prior_segments": 0.07667025710363817,
+            "prior_syllables": 0.1500721152911374,
+            "prior_context": 0.10897788217888654
+      },
+      "shiro's": {
+            "prior_all": 0.1494437994828027,
+            "prior_segments": 0.029601601586007012,
+            "prior_syllables": 0.07162294783346569,
+            "prior_context": 0.04821925006333002
+      },
+      "heartbeats": {
+            "prior_all": 0.31315266689412913,
+            "prior_segments": 0.05504345280685218,
+            "prior_syllables": 0.1525311914285593,
+            "prior_context": 0.10557802265871807
+      },
+      "have": {
+            "prior_all": 0.9268788926764985,
+            "prior_segments": 0.34286392268835897,
+            "prior_syllables": 0.28084492471384426,
+            "prior_context": 0.3031700452742953
+      },
+      "gone": {
+            "prior_all": 0.11256635739322497,
+            "prior_segments": 0.0212886282929195,
+            "prior_syllables": 0.047612646065587384,
+            "prior_context": 0.04366508303471805
+      },
+      "flat": {
+            "prior_all": 0.12333364605851928,
+            "prior_segments": 0.01972659030745889,
+            "prior_syllables": 0.05725629585618855,
+            "prior_context": 0.04635075989487174
+      },
+      "perfect": {
+            "prior_all": 0.16325117679218276,
+            "prior_segments": 0.029924548275081123,
+            "prior_syllables": 0.08162070703773662,
+            "prior_context": 0.05170592147936525
+      },
+      "headshot": {
+            "prior_all": 0.1642507125029101,
+            "prior_segments": 0.03361518230148657,
+            "prior_syllables": 0.07321854790838264,
+            "prior_context": 0.057416982293040576
+      },
+      "there's": {
+            "prior_all": 0.41996625142214655,
+            "prior_segments": 0.11150524686793632,
+            "prior_syllables": 0.15862666642726542,
+            "prior_context": 0.1498343381269447
+      },
+      "way": {
+            "prior_all": 0.23466637471727317,
+            "prior_segments": 0.054990950018939985,
+            "prior_syllables": 0.08954164807916395,
+            "prior_context": 0.09013377661916876
+      },
+      "disguise": {
+            "prior_all": 0.15368878227569338,
+            "prior_segments": 0.028126163821310553,
+            "prior_syllables": 0.07730053024505484,
+            "prior_context": 0.04826208820932797
+      },
+      "won": {
+            "prior_all": 0.1769943493873088,
+            "prior_segments": 0.028040493765868747,
+            "prior_syllables": 0.08999428712328572,
+            "prior_context": 0.05895956849815457
+      },
+      "did": {
+            "prior_all": 0.6875295780996533,
+            "prior_segments": 0.14645519668523588,
+            "prior_syllables": 0.29337285970278787,
+            "prior_context": 0.24770152171163023
+      },
+      "s": {
+            "prior_all": 0.09613279166191459,
+            "prior_segments": 0.013574972200158346,
+            "prior_syllables": 0.04506690639420514,
+            "prior_context": 0.037490913067551
+      },
+      "okay": {
+            "prior_all": 0.28438249127168774,
+            "prior_segments": 0.07622287996854359,
+            "prior_syllables": 0.11669070115537102,
+            "prior_context": 0.09146891014777339
+      },
+      "can": {
+            "prior_all": 0.8183235407071673,
+            "prior_segments": 0.21577951194728112,
+            "prior_syllables": 0.317578726623794,
+            "prior_context": 0.28496530213609134
+      },
+      "open": {
+            "prior_all": 0.13378930358883406,
+            "prior_segments": 0.021246584643275394,
+            "prior_syllables": 0.06693263580066795,
+            "prior_context": 0.045610083144890935
+      },
+      "my": {
+            "prior_all": 0.5873006858144652,
+            "prior_segments": 0.11904767885732037,
+            "prior_syllables": 0.22080015585780885,
+            "prior_context": 0.24745285109933501
+      },
+      "eyes": {
+            "prior_all": 0.08983512479563836,
+            "prior_segments": 0.012378101976032996,
+            "prior_syllables": 0.0390743831430405,
+            "prior_context": 0.03838263967656464
+      },
+      "now": {
+            "prior_all": 0.5425602920724882,
+            "prior_segments": 0.14415517872860714,
+            "prior_syllables": 0.19971284903271147,
+            "prior_context": 0.1986922643111705
+      },
+      "shiro": {
+            "prior_all": 0.13891955055255173,
+            "prior_segments": 0.02763413462377279,
+            "prior_syllables": 0.06586847847020467,
+            "prior_context": 0.04541693745857427
+      },
+      "are": {
+            "prior_all": 0.8216019496547423,
+            "prior_segments": 0.20436895795708676,
+            "prior_syllables": 0.2830396460011877,
+            "prior_context": 0.3341933456964686
+      },
+      "there": {
+            "prior_all": 0.38527897352083457,
+            "prior_segments": 0.06393489221977419,
+            "prior_syllables": 0.17101077957498434,
+            "prior_context": 0.15033330172607554
+      },
+      "looks": {
+            "prior_all": 0.12690224737812272,
+            "prior_segments": 0.026771371361168687,
+            "prior_syllables": 0.05469427843862323,
+            "prior_context": 0.045436597578330774
+      },
+      "like": {
+            "prior_all": 0.6176974170128401,
+            "prior_segments": 0.1768635275262994,
+            "prior_syllables": 0.21707842742959602,
+            "prior_context": 0.22375546205694583
+      },
+      "worked": {
+            "prior_all": 0.12252508101028943,
+            "prior_segments": 0.020808743556194245,
+            "prior_syllables": 0.05552813875606152,
+            "prior_context": 0.04618819869803398
+      },
+      "yeah": {
+            "prior_all": 0.27802501171458344,
+            "prior_segments": 0.08385857572294997,
+            "prior_syllables": 0.08371511749263352,
+            "prior_context": 0.11045131849900043
+      },
+      "plan": {
+            "prior_all": 0.23959719406261787,
+            "prior_segments": 0.045763352254783445,
+            "prior_syllables": 0.10753834023269855,
+            "prior_context": 0.08629550157513528
+      },
+      "right": {
+            "prior_all": 1.1398457089443852,
+            "prior_segments": 0.3055330833253241,
+            "prior_syllables": 0.44134745649540835,
+            "prior_context": 0.3929651691236544
+      },
+      "she": {
+            "prior_all": 0.22795158240738142,
+            "prior_segments": 0.059739435573550444,
+            "prior_syllables": 0.0802174043772715,
+            "prior_context": 0.08799474245655983
+      },
+      "wasn't": {
+            "prior_all": 0.26035027804463456,
+            "prior_segments": 0.04807764852559913,
+            "prior_syllables": 0.1114119999492852,
+            "prior_context": 0.10086062956975084
+      },
+      "aiming": {
+            "prior_all": 0.2601413072234253,
+            "prior_segments": 0.04270385960158958,
+            "prior_syllables": 0.12999788471132667,
+            "prior_context": 0.0874395629105093
+      },
+      "for": {
+            "prior_all": 0.5519479024083275,
+            "prior_segments": 0.14142071895997999,
+            "prior_syllables": 0.20065526278719004,
+            "prior_context": 0.20987192066115665
+      },
+      "below": {
+            "prior_all": 0.2594674587885605,
+            "prior_segments": 0.0415394816650369,
+            "prior_syllables": 0.12472759348117014,
+            "prior_context": 0.0932003836423538
+      },
+      "who": {
+            "prior_all": 0.17485955875871192,
+            "prior_segments": 0.036853865149350976,
+            "prior_syllables": 0.06642956422721757,
+            "prior_context": 0.07157612938214361
+      },
+      "being": {
+            "prior_all": 0.1318104195730017,
+            "prior_segments": 0.021536368507418684,
+            "prior_syllables": 0.06260736724602366,
+            "prior_context": 0.047666683819559304
+      },
+      "carried": {
+            "prior_all": 0.15049793142190568,
+            "prior_segments": 0.023281181440399982,
+            "prior_syllables": 0.07398632634997752,
+            "prior_context": 0.053230423631527995
+      },
+      "by": {
+            "prior_all": 0.3147703401332922,
+            "prior_segments": 0.07000241115644631,
+            "prior_syllables": 0.1191375044483075,
+            "prior_context": 0.1256304245285382
+      },
+      "girls": {
+            "prior_all": 0.123408771299869,
+            "prior_segments": 0.025977943245767066,
+            "prior_syllables": 0.05644264547961993,
+            "prior_context": 0.04098818257448186
+      },
+      "npc": {
+            "prior_all": 0.14015554542365993,
+            "prior_segments": 0.01911768605561063,
+            "prior_syllables": 0.07042488442848818,
+            "prior_context": 0.05061297493956127
+      },
+      "movement": {
+            "prior_all": 0.14941764586481945,
+            "prior_segments": 0.02541475208355818,
+            "prior_syllables": 0.06861830484295883,
+            "prior_context": 0.05538458893830184
+      },
+      "controlled": {
+            "prior_all": 0.1682619959303422,
+            "prior_segments": 0.030730163582045188,
+            "prior_syllables": 0.07516847059630453,
+            "prior_context": 0.06236336175199233
+      },
+      "certain": {
+            "prior_all": 0.1377140028204466,
+            "prior_segments": 0.018389136429645264,
+            "prior_syllables": 0.06675417613424846,
+            "prior_context": 0.05257069025655307
+      },
+      "rules": {
+            "prior_all": 0.3050723296620901,
+            "prior_segments": 0.11119308720546876,
+            "prior_syllables": 0.09598758377040945,
+            "prior_context": 0.09789165868621204
+      },
+      "where": {
+            "prior_all": 0.2375539664317609,
+            "prior_segments": 0.04822194609899496,
+            "prior_syllables": 0.09684710673404402,
+            "prior_context": 0.09248491359872159
+      },
+      "they'll": {
+            "prior_all": 0.11298071882390466,
+            "prior_segments": 0.019906830001183873,
+            "prior_syllables": 0.047876908692138294,
+            "prior_context": 0.04519698013058259
+      },
+      "npcs": {
+            "prior_all": 0.14843111445699628,
+            "prior_segments": 0.018781081350079408,
+            "prior_syllables": 0.08366676626226249,
+            "prior_context": 0.045983266844654494
+      },
+      "don't": {
+            "prior_all": 0.7049035431859433,
+            "prior_segments": 0.19231481425946842,
+            "prior_syllables": 0.26018044695383574,
+            "prior_context": 0.2524082819726391
+      },
+      "make": {
+            "prior_all": 0.2792335874319641,
+            "prior_segments": 0.06923243728976589,
+            "prior_syllables": 0.10954563909674786,
+            "prior_context": 0.10045551104545046
+      },
+      "sound": {
+            "prior_all": 0.12065702474912357,
+            "prior_segments": 0.025174745462540504,
+            "prior_syllables": 0.051502860547651144,
+            "prior_context": 0.04397941873893189
+      },
+      "as": {
+            "prior_all": 0.16677596665640695,
+            "prior_segments": 0.032026659606590804,
+            "prior_syllables": 0.06583723748208445,
+            "prior_context": 0.06891206956773191
+      },
+      "they": {
+            "prior_all": 0.39923208923741954,
+            "prior_segments": 0.08951220203191469,
+            "prior_syllables": 0.1428284158843395,
+            "prior_context": 0.16689147132116416
+      },
+      "walk": {
+            "prior_all": 0.10556557393421856,
+            "prior_segments": 0.018912083554193646,
+            "prior_syllables": 0.050018833676594036,
+            "prior_context": 0.03663465670343098
+      },
+      "couldn't": {
+            "prior_all": 0.3477500174676324,
+            "prior_segments": 0.09645796622582248,
+            "prior_syllables": 0.14299250882634565,
+            "prior_context": 0.10829954241546424
+      },
+      "sense": {
+            "prior_all": 0.11212368140324709,
+            "prior_segments": 0.0167047539688312,
+            "prior_syllables": 0.051234099151483276,
+            "prior_context": 0.044184828282932735
+      },
+      "her": {
+            "prior_all": 0.5298229528920534,
+            "prior_segments": 0.12046666674165445,
+            "prior_syllables": 0.20424059039906312,
+            "prior_context": 0.20511569575133606
+      },
+      "desire": {
+            "prior_all": 0.14886659586637999,
+            "prior_segments": 0.02397180613736229,
+            "prior_syllables": 0.08008410796235099,
+            "prior_context": 0.04481068176666712
+      },
+      "attack": {
+            "prior_all": 0.11762025253992145,
+            "prior_segments": 0.017103569064295873,
+            "prior_syllables": 0.06255886130647324,
+            "prior_context": 0.037957822169152194
+      },
+      "impossible": {
+            "prior_all": 0.7561363852494922,
+            "prior_segments": 0.15580243229185967,
+            "prior_syllables": 0.3923807785554715,
+            "prior_context": 0.2079531744021611
+      },
+      "detect": {
+            "prior_all": 0.26023030653868917,
+            "prior_segments": 0.05506800210639327,
+            "prior_syllables": 0.11992385711942376,
+            "prior_context": 0.08523844731287214
+      },
+      "bound": {
+            "prior_all": 0.11926284761734265,
+            "prior_segments": 0.026366148504100358,
+            "prior_syllables": 0.05051035552005286,
+            "prior_context": 0.04238634359318946
+      },
+      "steph": {
+            "prior_all": 0.1251445457965275,
+            "prior_segments": 0.019763172481478426,
+            "prior_syllables": 0.056204282614641214,
+            "prior_context": 0.04917709070040772
+      },
+      "with": {
+            "prior_all": 0.4959774073730845,
+            "prior_segments": 0.15198362474544636,
+            "prior_syllables": 0.16149585799990226,
+            "prior_context": 0.18249792462773612
+      },
+      "pledges": {
+            "prior_all": 0.6744308430157135,
+            "prior_segments": 0.2842208358281392,
+            "prior_syllables": 0.23491521247506741,
+            "prior_context": 0.15529479471250662
+      },
+      "obey": {
+            "prior_all": 0.12278181831835795,
+            "prior_segments": 0.024358600333822488,
+            "prior_syllables": 0.05861535204959603,
+            "prior_context": 0.039807865934939415
+      },
+      "any": {
+            "prior_all": 0.3072706666206043,
+            "prior_segments": 0.07010985864067203,
+            "prior_syllables": 0.13111387345220984,
+            "prior_context": 0.10604693452772236
+      },
+      "order": {
+            "prior_all": 0.12890024864009947,
+            "prior_segments": 0.018551074441508577,
+            "prior_syllables": 0.06283766335154393,
+            "prior_context": 0.04751151084704693
+      },
+      "forget": {
+            "prior_all": 0.25880432978991247,
+            "prior_segments": 0.08138249353539756,
+            "prior_syllables": 0.10028142517898633,
+            "prior_context": 0.0771404110755289
+      },
+      "wait": {
+            "prior_all": 0.1083407668935994,
+            "prior_segments": 0.016463179033381573,
+            "prior_syllables": 0.04903335386631591,
+            "prior_context": 0.04284423399390199
+      },
+      "until": {
+            "prior_all": 0.13995823563329746,
+            "prior_segments": 0.019833667607635948,
+            "prior_syllables": 0.06903692368025847,
+            "prior_context": 0.05108764434540287
+      },
+      "energy": {
+            "prior_all": 0.1532202860465581,
+            "prior_segments": 0.027584478830389336,
+            "prior_syllables": 0.0816839265433036,
+            "prior_context": 0.04395188067286528
+      },
+      "about": {
+            "prior_all": 0.5960724844872741,
+            "prior_segments": 0.1424236303652763,
+            "prior_syllables": 0.23456126812722256,
+            "prior_context": 0.2190875859947768
+      },
+      "run": {
+            "prior_all": 0.1111136764036096,
+            "prior_segments": 0.01768459368940671,
+            "prior_syllables": 0.05201076415369675,
+            "prior_context": 0.041418318560506207
+      },
+      "out": {
+            "prior_all": 0.0840273611893022,
+            "prior_segments": 0.015684064344832216,
+            "prior_syllables": 0.03541129138049054,
+            "prior_context": 0.03293200546397945
+      },
+      "straight": {
+            "prior_all": 0.12208316444254255,
+            "prior_segments": 0.01981918153575547,
+            "prior_syllables": 0.05381460611689476,
+            "prior_context": 0.04844937678989252
+      },
+      "ahead": {
+            "prior_all": 0.1288890458426774,
+            "prior_segments": 0.020772131685020415,
+            "prior_syllables": 0.05843950167893946,
+            "prior_context": 0.04967741247871759
+      },
+      "we": {
+            "prior_all": 1.149309010369598,
+            "prior_segments": 0.2946951780730968,
+            "prior_syllables": 0.41388589331642633,
+            "prior_context": 0.440727938980077
+      },
+      "had": {
+            "prior_all": 0.2736018041118259,
+            "prior_segments": 0.06388837851860535,
+            "prior_syllables": 0.11119881738781352,
+            "prior_context": 0.09851460820540672
+      },
+      "npc's": {
+            "prior_all": 0.1613579162189559,
+            "prior_segments": 0.02302714168149187,
+            "prior_syllables": 0.0920936424614104,
+            "prior_context": 0.04623713207605431
+      },
+      "movements": {
+            "prior_all": 0.3093795347352241,
+            "prior_segments": 0.0785086653484418,
+            "prior_syllables": 0.13540998425650178,
+            "prior_context": 0.09546088513028148
+      },
+      "lead": {
+            "prior_all": 0.10975064597372958,
+            "prior_segments": 0.016300790813070013,
+            "prior_syllables": 0.0523408719904142,
+            "prior_context": 0.0411089831702453
+      },
+      "mister": {
+            "prior_all": 0.1369561110465668,
+            "prior_segments": 0.019448018150777735,
+            "prior_syllables": 0.0677404564723648,
+            "prior_context": 0.04976763642342447
+      },
+      "been": {
+            "prior_all": 0.2682329413080897,
+            "prior_segments": 0.0693937863451013,
+            "prior_syllables": 0.0998870257819756,
+            "prior_context": 0.09895212918101236
+      },
+      "monitoring": {
+            "prior_all": 0.19405193217580144,
+            "prior_segments": 0.032381437093919004,
+            "prior_syllables": 0.09909762305063331,
+            "prior_context": 0.06257287203124931
+      },
+      "our": {
+            "prior_all": 0.45820718664961074,
+            "prior_segments": 0.11115698011890657,
+            "prior_syllables": 0.142974321736281,
+            "prior_context": 0.2040758847944234
+      },
+      "whole": {
+            "prior_all": 0.1996939866008166,
+            "prior_segments": 0.056483960582956794,
+            "prior_syllables": 0.07706725171556002,
+            "prior_context": 0.0661427743022997
+      },
+      "took": {
+            "prior_all": 0.10434147787889665,
+            "prior_segments": 0.021244259026816335,
+            "prior_syllables": 0.045079124399373664,
+            "prior_context": 0.038018094452706534
+      },
+      "advantage": {
+            "prior_all": 0.169591310258447,
+            "prior_segments": 0.02916549419508951,
+            "prior_syllables": 0.08346801905068628,
+            "prior_context": 0.05695779701267077
+      },
+      "actions": {
+            "prior_all": 0.14959757928153072,
+            "prior_segments": 0.02846704186739557,
+            "prior_syllables": 0.07385406729001366,
+            "prior_context": 0.04727647012412164
+      },
+      "in": {
+            "prior_all": 0.30579818362664496,
+            "prior_segments": 0.07078619120320073,
+            "prior_syllables": 0.11204069391532996,
+            "prior_context": 0.1229712985081145
+      },
+      "or": {
+            "prior_all": 0.413339510772479,
+            "prior_segments": 0.08835229661650405,
+            "prior_syllables": 0.15128076849155253,
+            "prior_context": 0.17370644566442262
+      },
+      "respond": {
+            "prior_all": 0.16416222301732358,
+            "prior_segments": 0.02854535255337267,
+            "prior_syllables": 0.08097982909692894,
+            "prior_context": 0.05463704136702187
+      },
+      "another": {
+            "prior_all": 0.3609143849991192,
+            "prior_segments": 0.06969495742098648,
+            "prior_syllables": 0.1659806094633232,
+            "prior_context": 0.12523881811480989
+      },
+      "player's": {
+            "prior_all": 0.15237090597101394,
+            "prior_segments": 0.027901984661276615,
+            "prior_syllables": 0.07058536012547234,
+            "prior_context": 0.053883561184265516
+      },
+      "strategy": {
+            "prior_all": 0.1719251212080185,
+            "prior_segments": 0.032809594382159135,
+            "prior_syllables": 0.07803835087155384,
+            "prior_context": 0.06107717595430561
+      },
+      "it's": {
+            "prior_all": 0.9862266250994808,
+            "prior_segments": 0.18243928061277756,
+            "prior_syllables": 0.4217847487509492,
+            "prior_context": 0.3820025957357537
+      },
+      "question": {
+            "prior_all": 0.15367686482906,
+            "prior_segments": 0.03014113627836932,
+            "prior_syllables": 0.07441909167836049,
+            "prior_context": 0.049116636872330165
+      },
+      "has": {
+            "prior_all": 0.26030344650062626,
+            "prior_segments": 0.08152837018215746,
+            "prior_syllables": 0.08690164132002433,
+            "prior_context": 0.09187343499844437
+      },
+      "initiative": {
+            "prior_all": 0.30330590410617,
+            "prior_segments": 0.05432695180255922,
+            "prior_syllables": 0.16459052202917407,
+            "prior_context": 0.08438843027443699
+      },
+      "held": {
+            "prior_all": 0.12321093609455368,
+            "prior_segments": 0.026862630197365147,
+            "prior_syllables": 0.05517906165309431,
+            "prior_context": 0.04116924424409429
+      },
+      "throughout": {
+            "prior_all": 0.13845539924159786,
+            "prior_segments": 0.03513285524599813,
+            "prior_syllables": 0.061515326714778114,
+            "prior_context": 0.04180721728082182
+      },
+      "entire": {
+            "prior_all": 0.14357389608905105,
+            "prior_segments": 0.02159841591522092,
+            "prior_syllables": 0.07696631261731252,
+            "prior_context": 0.04500916755651753
+      },
+      "were": {
+            "prior_all": 0.47013489104219647,
+            "prior_segments": 0.10115133922793576,
+            "prior_syllables": 0.18471405053114948,
+            "prior_context": 0.18426950128311162
+      },
+      "controlling": {
+            "prior_all": 0.19663044030585294,
+            "prior_segments": 0.03608271977623634,
+            "prior_syllables": 0.09286043761563313,
+            "prior_context": 0.06768728291398339
+      },
+      "precognition": {
+            "prior_all": 0.2049704568823617,
+            "prior_segments": 0.044035168711060675,
+            "prior_syllables": 0.10364978337108233,
+            "prior_context": 0.05728550480021898
+      },
+      "result": {
+            "prior_all": 0.15002880183418718,
+            "prior_segments": 0.027489701620386324,
+            "prior_syllables": 0.0734628048926365,
+            "prior_context": 0.04907629532116432
+      },
+      "inevitable": {
+            "prior_all": 0.19315974954372997,
+            "prior_segments": 0.03237784748400365,
+            "prior_syllables": 0.10069825482262633,
+            "prior_context": 0.06008364723710009
+      },
+      "weak": {
+            "prior_all": 0.1121193109832426,
+            "prior_segments": 0.021887170187911285,
+            "prior_syllables": 0.053018771137086106,
+            "prior_context": 0.037213369658245045
+      },
+      "fighting": {
+            "prior_all": 0.14276709466095355,
+            "prior_segments": 0.027253444069202225,
+            "prior_syllables": 0.06564471385301282,
+            "prior_context": 0.04986893673873824
+      },
+      "strong": {
+            "prior_all": 0.213575972410964,
+            "prior_segments": 0.07615309507098819,
+            "prior_syllables": 0.07450608126688422,
+            "prior_context": 0.06291679607309107
+      },
+      "fight": {
+            "prior_all": 0.1923600810486543,
+            "prior_segments": 0.03705767571086226,
+            "prior_syllables": 0.08640419979834778,
+            "prior_context": 0.06889820553944347
+      },
+      "each": {
+            "prior_all": 0.14293424208941422,
+            "prior_segments": 0.03862254679750166,
+            "prior_syllables": 0.04760311956368383,
+            "prior_context": 0.05670857572822881
+      },
+      "other": {
+            "prior_all": 0.20301906692085298,
+            "prior_segments": 0.03260289723479421,
+            "prior_syllables": 0.08678336266169881,
+            "prior_context": 0.08363280702436074
+      },
+      "head": {
+            "prior_all": 0.1119657657536334,
+            "prior_segments": 0.020060211171911545,
+            "prior_syllables": 0.04823302886688461,
+            "prior_context": 0.043672525714837
+      },
+      "on": {
+            "prior_all": 0.5083659158621543,
+            "prior_segments": 0.13131870379674868,
+            "prior_syllables": 0.1825200090635083,
+            "prior_context": 0.19452720300189796
+      },
+      "old": {
+            "prior_all": 0.22684682319767321,
+            "prior_segments": 0.07772702660924447,
+            "prior_syllables": 0.06646693565794488,
+            "prior_context": 0.08265286093048393
+      },
+      "man": {
+            "prior_all": 0.10619467792492665,
+            "prior_segments": 0.01904838635048089,
+            "prior_syllables": 0.04887495074421423,
+            "prior_context": 0.038271340830231565
+      },
+      "winner": {
+            "prior_all": 0.1320509664925924,
+            "prior_segments": 0.022138096676244844,
+            "prior_syllables": 0.06811256679951314,
+            "prior_context": 0.041800303016834406
+      },
+      "elkia": {
+            "prior_all": 1.0136387991534337,
+            "prior_segments": 0.24961554035912237,
+            "prior_syllables": 0.4672572527311385,
+            "prior_context": 0.29676600606317305
+      },
+      "eastern": {
+            "prior_all": 1.188170743258414,
+            "prior_segments": 0.3017892632125278,
+            "prior_syllables": 0.5440462330689643,
+            "prior_context": 0.34233524697692136
+      },
+      "federation": {
+            "prior_all": 1.4950325089117722,
+            "prior_segments": 0.4025909483252071,
+            "prior_syllables": 0.7011392739315403,
+            "prior_context": 0.39130228665502337
+      },
+      "turns": {
+            "prior_all": 0.12086869360763954,
+            "prior_segments": 0.022794832669837617,
+            "prior_syllables": 0.05370548490068456,
+            "prior_context": 0.04436837603711759
+      },
+      "rights": {
+            "prior_all": 0.2157648508320119,
+            "prior_segments": 0.04424185302244712,
+            "prior_syllables": 0.08898244114793157,
+            "prior_context": 0.0825405566616331
+      },
+      "owns": {
+            "prior_all": 0.10415565180366132,
+            "prior_segments": 0.01920135625028434,
+            "prior_syllables": 0.04484999389361597,
+            "prior_context": 0.04010430165976108
+      },
+      "continent": {
+            "prior_all": 0.46594272778534335,
+            "prior_segments": 0.09119052877110169,
+            "prior_syllables": 0.22634429453390173,
+            "prior_context": 0.1484079044803398
+      },
+      "kingdom": {
+            "prior_all": 0.14725757089571367,
+            "prior_segments": 0.028458557110636846,
+            "prior_syllables": 0.0721815273488908,
+            "prior_context": 0.04661748643618639
+      },
+      "why": {
+            "prior_all": 0.8988657115624057,
+            "prior_segments": 0.23699037192776076,
+            "prior_syllables": 0.32109131330857826,
+            "prior_context": 0.3407840263260665
+      },
+      "aim": {
+            "prior_all": 0.09152668401383447,
+            "prior_segments": 0.016336026419086762,
+            "prior_syllables": 0.04153455771940132,
+            "prior_context": 0.03365609987534641
+      },
+      "panties": {
+            "prior_all": 0.15942887746246506,
+            "prior_segments": 0.028761612602531773,
+            "prior_syllables": 0.07416327312621719,
+            "prior_context": 0.056503991733716084
+      },
+      "ask": {
+            "prior_all": 0.11089445846957297,
+            "prior_segments": 0.020602750776735634,
+            "prior_syllables": 0.0493366405664143,
+            "prior_context": 0.040955067126423134
+      },
+      "know": {
+            "prior_all": 0.33558162841255296,
+            "prior_segments": 0.09745484522299615,
+            "prior_syllables": 0.11734539460926031,
+            "prior_context": 0.12078138858029662
+      },
+      "answer": {
+            "prior_all": 0.12598466474568545,
+            "prior_segments": 0.022907904087252202,
+            "prior_syllables": 0.06605191040019097,
+            "prior_context": 0.037024850258242176
+      },
+      "these": {
+            "prior_all": 0.3122599250668614,
+            "prior_segments": 0.06964769538889942,
+            "prior_syllables": 0.127487236328872,
+            "prior_context": 0.11512499334909118
+      },
+      "people": {
+            "prior_all": 0.4769025123698534,
+            "prior_segments": 0.0837549046053277,
+            "prior_syllables": 0.22501356680987813,
+            "prior_context": 0.16813404095464812
+      },
+      "see": {
+            "prior_all": 0.32125858837003796,
+            "prior_segments": 0.06395753138229364,
+            "prior_syllables": 0.12938518113486044,
+            "prior_context": 0.12791587585288372
+      },
+      "naked": {
+            "prior_all": 0.2677521563894248,
+            "prior_segments": 0.04592398972397211,
+            "prior_syllables": 0.13170920481783518,
+            "prior_context": 0.09011896184761681
+      },
+      "talking": {
+            "prior_all": 0.1377331898581352,
+            "prior_segments": 0.0229950685075903,
+            "prior_syllables": 0.06538463826423271,
+            "prior_context": 0.04935348308631209
+      },
+      "matter": {
+            "prior_all": 0.365514515092554,
+            "prior_segments": 0.0628287622523731,
+            "prior_syllables": 0.16924599860372178,
+            "prior_context": 0.13343975423645832
+      },
+      "if": {
+            "prior_all": 0.23525040662250232,
+            "prior_segments": 0.058243578768370614,
+            "prior_syllables": 0.08940048882581514,
+            "prior_context": 0.08760633902831659
+      },
+      "dola": {
+            "prior_all": 0.13535446686854813,
+            "prior_segments": 0.021440631880613726,
+            "prior_syllables": 0.0634091573871948,
+            "prior_context": 0.050504677600739595
+      },
+      "chan": {
+            "prior_all": 0.0992759181206258,
+            "prior_segments": 0.020041129252004006,
+            "prior_syllables": 0.03808923187943715,
+            "prior_context": 0.04114555698918467
+      },
+      "jibril": {
+            "prior_all": 0.15522857439608065,
+            "prior_segments": 0.03497240943266233,
+            "prior_syllables": 0.06886137961340193,
+            "prior_context": 0.051394785350016195
+      },
+      "good": {
+            "prior_all": 0.3005636176178929,
+            "prior_segments": 0.061807142336427555,
+            "prior_syllables": 0.11880530614227515,
+            "prior_context": 0.11995116913919023
+      },
+      "work": {
+            "prior_all": 0.10873257865904999,
+            "prior_segments": 0.022485752273340737,
+            "prior_syllables": 0.04905452599484581,
+            "prior_context": 0.03719230039086344
+      },
+      "according": {
+            "prior_all": 0.17332891867162145,
+            "prior_segments": 0.029447462784078157,
+            "prior_syllables": 0.08277326908223062,
+            "prior_context": 0.0611081868053127
+      },
+      "well": {
+            "prior_all": 0.3089287922925096,
+            "prior_segments": 0.06735661379080889,
+            "prior_syllables": 0.12105137567261688,
+            "prior_context": 0.12052080282908416
+      },
+      "done": {
+            "prior_all": 0.10283600386298412,
+            "prior_segments": 0.013501078614089048,
+            "prior_syllables": 0.045811226298519137,
+            "prior_context": 0.04352369895037566
+      },
+      "master": {
+            "prior_all": 0.13296008858609168,
+            "prior_segments": 0.020774104443550743,
+            "prior_syllables": 0.062060964116059485,
+            "prior_context": 0.050125020026481726
+      },
+      "fault": {
+            "prior_all": 0.22760288681006383,
+            "prior_segments": 0.0471324784832747,
+            "prior_syllables": 0.0949863799041553,
+            "prior_context": 0.0854840284226337
+      },
+      "ordered": {
+            "prior_all": 0.12999655789806822,
+            "prior_segments": 0.023152289118645007,
+            "prior_syllables": 0.06381886871723952,
+            "prior_context": 0.043025400062183396
+      },
+      "because": {
+            "prior_all": 0.2730530460189205,
+            "prior_segments": 0.058852010597898054,
+            "prior_syllables": 0.12805279387357874,
+            "prior_context": 0.08614824154744437
+      },
+      "many": {
+            "prior_all": 0.25477649849107853,
+            "prior_segments": 0.0410165661939231,
+            "prior_syllables": 0.1249144711120648,
+            "prior_context": 0.08884546118509022
+      },
+      "suffer": {
+            "prior_all": 0.37455018956284575,
+            "prior_segments": 0.07181247422481453,
+            "prior_syllables": 0.17700314996101793,
+            "prior_context": 0.12573456537701344
+      },
+      "lost": {
+            "prior_all": 0.11737232065657138,
+            "prior_segments": 0.023053037054535513,
+            "prior_syllables": 0.05178843664430438,
+            "prior_context": 0.04253084695773168
+      },
+      "tan": {
+            "prior_all": 0.1946736923109052,
+            "prior_segments": 0.027280614857206488,
+            "prior_syllables": 0.08413638574079028,
+            "prior_context": 0.08325669171290838
+      },
+      "smile": {
+            "prior_all": 0.12593588115554297,
+            "prior_segments": 0.02525490810171735,
+            "prior_syllables": 0.05691871544715498,
+            "prior_context": 0.0437622576066705
+      },
+      "will": {
+            "prior_all": 0.5508753859040925,
+            "prior_segments": 0.1602409035567213,
+            "prior_syllables": 0.1871094675561297,
+            "prior_context": 0.20352501479124185
+      },
+      "having": {
+            "prior_all": 0.2745841742689842,
+            "prior_segments": 0.06454413979310054,
+            "prior_syllables": 0.11891774624302695,
+            "prior_context": 0.09112228823285645
+      },
+      "worry": {
+            "prior_all": 0.21417673662691392,
+            "prior_segments": 0.03370179925615682,
+            "prior_syllables": 0.09761796191688642,
+            "prior_context": 0.08285697545387026
+      },
+      "how": {
+            "prior_all": 0.28305875509791734,
+            "prior_segments": 0.07828299977501492,
+            "prior_syllables": 0.08583977011412104,
+            "prior_context": 0.11893598520878139
+      },
+      "does": {
+            "prior_all": 0.10951136692140068,
+            "prior_segments": 0.018773337352513898,
+            "prior_syllables": 0.04974272468283137,
+            "prior_context": 0.04099530488605525
+      },
+      "feel": {
+            "prior_all": 0.18105475546876942,
+            "prior_segments": 0.05958317453363554,
+            "prior_syllables": 0.06320913578980228,
+            "prior_context": 0.05826244514533179
+      },
+      "hard": {
+            "prior_all": 0.12195272205796351,
+            "prior_segments": 0.02709665056221687,
+            "prior_syllables": 0.05259264828821963,
+            "prior_context": 0.04226342320752718
+      },
+      "put": {
+            "prior_all": 0.17912528771872288,
+            "prior_segments": 0.06028004973559281,
+            "prior_syllables": 0.060939210973902945,
+            "prior_context": 0.05790602700922683
+      },
+      "mildly": {
+            "prior_all": 0.14680082852688506,
+            "prior_segments": 0.028313215127583176,
+            "prior_syllables": 0.06786284502046454,
+            "prior_context": 0.05062476837883754
+      },
+      "awesome": {
+            "prior_all": 0.13572902617886662,
+            "prior_segments": 0.025667782575499794,
+            "prior_syllables": 0.06398774857789764,
+            "prior_context": 0.046073495025469036
+      },
+      "friend": {
+            "prior_all": 0.13746201364323304,
+            "prior_segments": 0.032059170521608484,
+            "prior_syllables": 0.062054439107840635,
+            "prior_context": 0.04334840401378377
+      },
+      "ours": {
+            "prior_all": 0.10325847154042171,
+            "prior_segments": 0.01845458602416567,
+            "prior_syllables": 0.04586964751336729,
+            "prior_context": 0.03893423800288873
+      },
+      "gamer": {
+            "prior_all": 0.12989620716000616,
+            "prior_segments": 0.025492651944111305,
+            "prior_syllables": 0.0627656262696709,
+            "prior_context": 0.04163792894622406
+      },
+      "seem": {
+            "prior_all": 0.11068396563599582,
+            "prior_segments": 0.021670663756553316,
+            "prior_syllables": 0.05440513563621287,
+            "prior_context": 0.03460816624322961
+      },
+      "wrong": {
+            "prior_all": 0.26259836233433137,
+            "prior_segments": 0.0761442237256418,
+            "prior_syllables": 0.09244861406438612,
+            "prior_context": 0.0940055245443042
+      },
+      "idea": {
+            "prior_all": 0.1397583845075789,
+            "prior_segments": 0.023064360517909225,
+            "prior_syllables": 0.061304081901168324,
+            "prior_context": 0.05538994208850114
+      },
+      "nobody's": {
+            "prior_all": 0.17204531499616224,
+            "prior_segments": 0.036107296195367934,
+            "prior_syllables": 0.08158809044194835,
+            "prior_context": 0.05434992835884564
+      },
+      "world": {
+            "prior_all": 0.3221877688300085,
+            "prior_segments": 0.10935723547663216,
+            "prior_syllables": 0.10666105935276371,
+            "prior_context": 0.10616947400061275
+      },
+      "everyone": {
+            "prior_all": 0.176912881389222,
+            "prior_segments": 0.03351187079516311,
+            "prior_syllables": 0.0846503679319125,
+            "prior_context": 0.05875064266214686
+      },
+      "here": {
+            "prior_all": 0.28126317806854845,
+            "prior_segments": 0.07845163311550887,
+            "prior_syllables": 0.10085142974666161,
+            "prior_context": 0.1019601152063778
+      },
+      "fails": {
+            "prior_all": 0.13050576981551854,
+            "prior_segments": 0.03196417362627833,
+            "prior_syllables": 0.053793031963611126,
+            "prior_context": 0.044748564225629395
+      },
+      "understand": {
+            "prior_all": 0.1644028998922766,
+            "prior_segments": 0.028245963792002945,
+            "prior_syllables": 0.08303625934559603,
+            "prior_context": 0.05312067675467766
+      },
+      "born": {
+            "prior_all": 0.21866377355081593,
+            "prior_segments": 0.0665880080811407,
+            "prior_syllables": 0.07655510104160305,
+            "prior_context": 0.07552066442807244
+      },
+      "imanity's": {
+            "prior_all": 0.1848880894523663,
+            "prior_segments": 0.02887639710570021,
+            "prior_syllables": 0.09148302312192551,
+            "prior_context": 0.06452866922474079
+      },
+      "learning": {
+            "prior_all": 0.15024245668465674,
+            "prior_segments": 0.03391341253193056,
+            "prior_syllables": 0.06720141526641978,
+            "prior_context": 0.049127628886306514
+      },
+      "experience": {
+            "prior_all": 0.18643708051062755,
+            "prior_segments": 0.030051017977536076,
+            "prior_syllables": 0.0967547588107009,
+            "prior_context": 0.05963130372239058
+      },
+      "fine": {
+            "prior_all": 0.2926171451584767,
+            "prior_segments": 0.0634990329300289,
+            "prior_syllables": 0.12183065362239685,
+            "prior_context": 0.10728745860605045
+      },
+      "i'll": {
+            "prior_all": 0.18018987729722588,
+            "prior_segments": 0.03236417802182367,
+            "prior_syllables": 0.07378308438066006,
+            "prior_context": 0.07404261489474251
+      },
+      "believe": {
+            "prior_all": 0.14929361263396423,
+            "prior_segments": 0.030443498858497616,
+            "prior_syllables": 0.06634843451382971,
+            "prior_context": 0.052501679261637194
+      },
+      "we're": {
+            "prior_all": 0.15759794486554077,
+            "prior_segments": 0.037277294134627235,
+            "prior_syllables": 0.05513847995851281,
+            "prior_context": 0.06518217077240064
+      },
+      "heading": {
+            "prior_all": 0.15212116955981705,
+            "prior_segments": 0.03465270072810555,
+            "prior_syllables": 0.06606739734751431,
+            "prior_context": 0.05140107148419727
+      },
+      "home": {
+            "prior_all": 0.10822412500138241,
+            "prior_segments": 0.02629155624798047,
+            "prior_syllables": 0.03982103465772122,
+            "prior_context": 0.042111534095680664
+      },
+      "lot": {
+            "prior_all": 0.10952204670930786,
+            "prior_segments": 0.0224217588945125,
+            "prior_syllables": 0.04954838303188562,
+            "prior_context": 0.037551904782909734
+      },
+      "hate": {
+            "prior_all": 0.10531278497921745,
+            "prior_segments": 0.021687879756542714,
+            "prior_syllables": 0.044642973811280635,
+            "prior_context": 0.03898193141139415
+      },
+      "baths": {
+            "prior_all": 0.12288228490465734,
+            "prior_segments": 0.032188719044777415,
+            "prior_syllables": 0.04759402796841682,
+            "prior_context": 0.043099537891463306
+      },
+      "objection": {
+            "prior_all": 0.1717576972244028,
+            "prior_segments": 0.042369294295605125,
+            "prior_syllables": 0.08103518766316674,
+            "prior_context": 0.04835321526563045
+      },
+      "denied": {
+            "prior_all": 0.12775853443910556,
+            "prior_segments": 0.02029269737774395,
+            "prior_syllables": 0.06049961084071001,
+            "prior_context": 0.046966226220651636
+      },
+      "really": {
+            "prior_all": 0.6412593875599152,
+            "prior_segments": 0.21986806194123684,
+            "prior_syllables": 0.23093445002598695,
+            "prior_context": 0.19045687559268992
+      },
+      "into": {
+            "prior_all": 0.4287042773193589,
+            "prior_segments": 0.09586741130067994,
+            "prior_syllables": 0.16624182365358475,
+            "prior_context": 0.1665950423650935
+      },
+      "today": {
+            "prior_all": 0.1258029988873913,
+            "prior_segments": 0.021821914237283146,
+            "prior_syllables": 0.05668930285376093,
+            "prior_context": 0.04729178179634706
+      },
+      "excited": {
+            "prior_all": 0.17074478313222277,
+            "prior_segments": 0.030760284734876537,
+            "prior_syllables": 0.07987718604027443,
+            "prior_context": 0.06010731235707168
+      },
+      "washing": {
+            "prior_all": 0.1481147102890875,
+            "prior_segments": 0.03850226810650342,
+            "prior_syllables": 0.06180618732931319,
+            "prior_context": 0.047806254853270766
+      },
+      "tan's": {
+            "prior_all": 0.1171102660472806,
+            "prior_segments": 0.021162875890083015,
+            "prior_syllables": 0.04870853403269197,
+            "prior_context": 0.047238856124505624
+      },
+      "tail": {
+            "prior_all": 0.10957331089788158,
+            "prior_segments": 0.022347669510727215,
+            "prior_syllables": 0.04468738029225081,
+            "prior_context": 0.04253826109490375
+      },
+      "tickles": {
+            "prior_all": 0.15568610694046647,
+            "prior_segments": 0.030018179891674306,
+            "prior_syllables": 0.07087921109427063,
+            "prior_context": 0.054788715954521595
+      },
+      "especially": {
+            "prior_all": 0.17996096705997783,
+            "prior_segments": 0.03247489630026957,
+            "prior_syllables": 0.08862333088352232,
+            "prior_context": 0.05886273987618596
+      },
+      "given": {
+            "prior_all": 0.14049818388925955,
+            "prior_segments": 0.02757026262668323,
+            "prior_syllables": 0.06258750260344359,
+            "prior_context": 0.05034041865913283
+      },
+      "pessimistic": {
+            "prior_all": 0.18168983990613422,
+            "prior_segments": 0.0342066414940323,
+            "prior_syllables": 0.09372646747132383,
+            "prior_context": 0.05375673094077816
+      },
+      "talked": {
+            "prior_all": 0.10853183933964362,
+            "prior_segments": 0.022838302833538333,
+            "prior_syllables": 0.04557749184642699,
+            "prior_context": 0.04011604465967845
+      },
+      "afterwards": {
+            "prior_all": 0.18452141090757995,
+            "prior_segments": 0.04392512756368271,
+            "prior_syllables": 0.0822192609685706,
+            "prior_context": 0.05837702237532616
+      },
+      "he": {
+            "prior_all": 0.09157769712871963,
+            "prior_segments": 0.018363327954652633,
+            "prior_syllables": 0.03622018013084915,
+            "prior_context": 0.0369941890432177
+      },
+      "told": {
+            "prior_all": 0.24110012206706988,
+            "prior_segments": 0.05500137843796882,
+            "prior_syllables": 0.093132875018655,
+            "prior_context": 0.09296586861044608
+      },
+      "nobody": {
+            "prior_all": 0.1605025506726739,
+            "prior_segments": 0.031086851431736753,
+            "prior_syllables": 0.07592765304133318,
+            "prior_context": 0.053488046199604136
+      },
+      "even": {
+            "prior_all": 0.22235224104745774,
+            "prior_segments": 0.06690101126011783,
+            "prior_syllables": 0.08273784618587024,
+            "prior_context": 0.07271338360146919
+      },
+      "absorbed": {
+            "prior_all": 0.1581441101184755,
+            "prior_segments": 0.03234801180689185,
+            "prior_syllables": 0.06965394774945907,
+            "prior_context": 0.05614215056212485
+      },
+      "bald": {
+            "prior_all": 0.5105889486372598,
+            "prior_segments": 0.14850049334356344,
+            "prior_syllables": 0.18114972838854632,
+            "prior_context": 0.18093872690515164
+      },
+      "monkey": {
+            "prior_all": 0.46116865352668873,
+            "prior_segments": 0.12824639545331287,
+            "prior_syllables": 0.1880391269273874,
+            "prior_context": 0.14488313114598975
+      },
+      "lies": {
+            "prior_all": 0.1068838507935475,
+            "prior_segments": 0.021137895839238554,
+            "prior_syllables": 0.0442264112668266,
+            "prior_context": 0.04151954368748242
+      },
+      "truth": {
+            "prior_all": 0.12036513337127114,
+            "prior_segments": 0.03197498459306184,
+            "prior_syllables": 0.04919540514549249,
+            "prior_context": 0.0391947436327169
+      },
+      "nothing": {
+            "prior_all": 0.13857132488243443,
+            "prior_segments": 0.03465064569288506,
+            "prior_syllables": 0.06147288468253144,
+            "prior_context": 0.04244779450701799
+      },
+      "could": {
+            "prior_all": 0.10250156108878235,
+            "prior_segments": 0.027235000621179187,
+            "prior_syllables": 0.041783851762546995,
+            "prior_context": 0.033482708705056256
+      },
+      "besides": {
+            "prior_all": 0.15671480053087952,
+            "prior_segments": 0.03469734808036684,
+            "prior_syllables": 0.06808707974474221,
+            "prior_context": 0.05393037270577073
+      },
+      "moved": {
+            "prior_all": 0.12537469859808703,
+            "prior_segments": 0.03317117370896832,
+            "prior_syllables": 0.048483917627141625,
+            "prior_context": 0.04371960726197725
+      },
+      "major": {
+            "prior_all": 0.12834804832675645,
+            "prior_segments": 0.03146456371333796,
+            "prior_syllables": 0.05430525731023587,
+            "prior_context": 0.04257822730318276
+      },
+      "technology": {
+            "prior_all": 0.19654263652816142,
+            "prior_segments": 0.040390464811514495,
+            "prior_syllables": 0.09808601382770399,
+            "prior_context": 0.05806615788894281
+      },
+      "personnel": {
+            "prior_all": 0.17413438136287454,
+            "prior_segments": 0.03445779069958371,
+            "prior_syllables": 0.08577103284717687,
+            "prior_context": 0.053905557816113704
+      },
+      "off": {
+            "prior_all": 0.17168296291008556,
+            "prior_segments": 0.04362475109255426,
+            "prior_syllables": 0.0664030550935119,
+            "prior_context": 0.0616551567240191
+      },
+      "knew": {
+            "prior_all": 0.08942348635276554,
+            "prior_segments": 0.019628832698513655,
+            "prior_syllables": 0.036875343541411344,
+            "prior_context": 0.032919310112840404
+      },
+      "obviously": {
+            "prior_all": 0.1878711916785729,
+            "prior_segments": 0.038569202195088616,
+            "prior_syllables": 0.0875093742138726,
+            "prior_context": 0.06179261526961125
+      },
+      "stop": {
+            "prior_all": 0.31567966452437923,
+            "prior_segments": 0.07772516294382409,
+            "prior_syllables": 0.12697044932908605,
+            "prior_context": 0.11098405225146961
+      },
+      "them": {
+            "prior_all": 0.18803616448955054,
+            "prior_segments": 0.042987525527334584,
+            "prior_syllables": 0.07107584868499539,
+            "prior_context": 0.07397279027722062
+      },
+      "isn't": {
+            "prior_all": 0.11478339772307433,
+            "prior_segments": 0.01982206406293227,
+            "prior_syllables": 0.04820815030096456,
+            "prior_context": 0.04675318335917755
+      },
+      "designated": {
+            "prior_all": 0.19384446246502554,
+            "prior_segments": 0.04034563590538302,
+            "prior_syllables": 0.09294865554423645,
+            "prior_context": 0.06055017101540608
+      },
+      "representative": {
+            "prior_all": 0.20998019079921112,
+            "prior_segments": 0.04383765606561209,
+            "prior_syllables": 0.10375111584300284,
+            "prior_context": 0.06239141889059631
+      },
+      "guys": {
+            "prior_all": 0.10578549869287336,
+            "prior_segments": 0.02652060752465329,
+            "prior_syllables": 0.041886406487862425,
+            "prior_context": 0.03737848468035762
+      },
+      "look": {
+            "prior_all": 0.10283809658636345,
+            "prior_segments": 0.025620312774508536,
+            "prior_syllables": 0.038735691950765185,
+            "prior_context": 0.03848209186108991
+      },
+      "great": {
+            "prior_all": 0.30255209482589185,
+            "prior_segments": 0.10705189316692625,
+            "prior_syllables": 0.0913995720137824,
+            "prior_context": 0.10410062964518262
+      },
+      "may": {
+            "prior_all": 0.209524137318096,
+            "prior_segments": 0.06161843538133427,
+            "prior_syllables": 0.06681732897153066,
+            "prior_context": 0.0810883729652315
+      },
+      "join": {
+            "prior_all": 0.09731922835567723,
+            "prior_segments": 0.032040242395503654,
+            "prior_syllables": 0.035030165361247464,
+            "prior_context": 0.030248820598926005
+      },
+      "shrine": {
+            "prior_all": 0.6921864483763392,
+            "prior_segments": 0.1948830491483614,
+            "prior_syllables": 0.2758537401417479,
+            "prior_context": 0.2214496590862286
+      },
+      "priestess": {
+            "prior_all": 0.4975093715087421,
+            "prior_segments": 0.09879371528946307,
+            "prior_syllables": 0.2167557058385184,
+            "prior_context": 0.18195995038076088
+      },
+      "i'm": {
+            "prior_all": 0.38858815479158454,
+            "prior_segments": 0.09301188371027033,
+            "prior_syllables": 0.14547726843745423,
+            "prior_context": 0.15009900264385956
+      },
+      "nice": {
+            "prior_all": 0.10819836395173854,
+            "prior_segments": 0.02340567988278502,
+            "prior_syllables": 0.045021540439439345,
+            "prior_context": 0.03977114362951411
+      },
+      "meet": {
+            "prior_all": 0.10727280503589871,
+            "prior_segments": 0.024432006685462984,
+            "prior_syllables": 0.04894786208920801,
+            "prior_context": 0.0338929362612276
+      },
+      "kannagari": {
+            "prior_all": 0.16651659276609665,
+            "prior_segments": 0.0340871136200927,
+            "prior_syllables": 0.08380719468019193,
+            "prior_context": 0.048622284465812106
+      },
+      "read": {
+            "prior_all": 0.11271783200894965,
+            "prior_segments": 0.026188378241191333,
+            "prior_syllables": 0.04615468067982783,
+            "prior_context": 0.040374773087930305
+      },
+      "poetry": {
+            "prior_all": 0.16215343253236658,
+            "prior_segments": 0.03601063615252092,
+            "prior_syllables": 0.06829142484330729,
+            "prior_context": 0.0578513715365384
+      },
+      "beneath": {
+            "prior_all": 0.14345384429700245,
+            "prior_segments": 0.037981222755418764,
+            "prior_syllables": 0.0626399878190946,
+            "prior_context": 0.04283263372248912
+      },
+      "light": {
+            "prior_all": 0.10594879564693585,
+            "prior_segments": 0.02308563088863732,
+            "prior_syllables": 0.04507110855365564,
+            "prior_context": 0.03779205620464298
+      },
+      "moon": {
+            "prior_all": 0.11057716347004114,
+            "prior_segments": 0.028596245648225743,
+            "prior_syllables": 0.04565396878298371,
+            "prior_context": 0.036326949038831734
+      },
+      "priestess's": {
+            "prior_all": 0.12353669135973458,
+            "prior_segments": 0.02354214054577965,
+            "prior_syllables": 0.057924704920757415,
+            "prior_context": 0.04206984589319756
+      },
+      "sure": {
+            "prior_all": 0.31513234745809543,
+            "prior_segments": 0.12071744888725935,
+            "prior_syllables": 0.09674037470272491,
+            "prior_context": 0.09767452386811096
+      },
+      "want": {
+            "prior_all": 0.3029610932682909,
+            "prior_segments": 0.11263712181982827,
+            "prior_syllables": 0.0969770519928316,
+            "prior_context": 0.09334691945563117
+      },
+      "monkeys": {
+            "prior_all": 0.14011774705519311,
+            "prior_segments": 0.031842773239814694,
+            "prior_syllables": 0.06069450386018002,
+            "prior_context": 0.04758046995519805
+      },
+      "come": {
+            "prior_all": 0.28105364377839875,
+            "prior_segments": 0.07225769976181717,
+            "prior_syllables": 0.10671775846847972,
+            "prior_context": 0.10207818554810227
+      },
+      "sorry": {
+            "prior_all": 0.12834134404065256,
+            "prior_segments": 0.02532156079858234,
+            "prior_syllables": 0.058191528862844455,
+            "prior_context": 0.04482825437922575
+      },
+      "golden": {
+            "prior_all": 0.1479187290739764,
+            "prior_segments": 0.03319887035463606,
+            "prior_syllables": 0.06355948385751592,
+            "prior_context": 0.05116037486182455
+      },
+      "fox": {
+            "prior_all": 0.12357115728983963,
+            "prior_segments": 0.033889296612735736,
+            "prior_syllables": 0.045419778118447385,
+            "prior_context": 0.044262082558656594
+      },
+      "girl": {
+            "prior_all": 0.20177839904364117,
+            "prior_segments": 0.05608422457949835,
+            "prior_syllables": 0.0696955598371952,
+            "prior_context": 0.07599861462694742
+      },
+      "picture": {
+            "prior_all": 0.139741516180782,
+            "prior_segments": 0.04004213211298516,
+            "prior_syllables": 0.05836671265687289,
+            "prior_context": 0.041332671410924025
+      },
+      "vips": {
+            "prior_all": 0.11981998358925329,
+            "prior_segments": 0.027886592892554525,
+            "prior_syllables": 0.04803096671620942,
+            "prior_context": 0.04390242398048935
+      },
+      "from": {
+            "prior_all": 0.43122119061173686,
+            "prior_segments": 0.1439671673055847,
+            "prior_syllables": 0.15063341354794327,
+            "prior_context": 0.13662060975820864
+      },
+      "country": {
+            "prior_all": 0.14963618875243548,
+            "prior_segments": 0.032583494281707315,
+            "prior_syllables": 0.06740295996605575,
+            "prior_context": 0.049649734504672347
+      },
+      "need": {
+            "prior_all": 0.1108329858164639,
+            "prior_segments": 0.02734200789685153,
+            "prior_syllables": 0.046921827464302415,
+            "prior_context": 0.03656915045531035
+      },
+      "polite": {
+            "prior_all": 0.14413206197648604,
+            "prior_segments": 0.028785555011706487,
+            "prior_syllables": 0.06359799614844143,
+            "prior_context": 0.05174851081633815
+      },
+      "impressed": {
+            "prior_all": 0.16319794445280913,
+            "prior_segments": 0.037874854763763156,
+            "prior_syllables": 0.0679665369282912,
+            "prior_context": 0.057356552760754916
+      },
+      "elves": {
+            "prior_all": 0.411206508732113,
+            "prior_segments": 0.124973193376391,
+            "prior_syllables": 0.15780445179599384,
+            "prior_context": 0.12842886355972868
+      },
+      "faster": {
+            "prior_all": 0.14153323265442072,
+            "prior_segments": 0.032316181777978153,
+            "prior_syllables": 0.05997196969419708,
+            "prior_context": 0.049245081182245506
+      },
+      "than": {
+            "prior_all": 0.09873940167222159,
+            "prior_segments": 0.019208053349741905,
+            "prior_syllables": 0.03965295342188043,
+            "prior_context": 0.039878394900599155
+      },
+      "mean": {
+            "prior_all": 0.3497103360412593,
+            "prior_segments": 0.12198041612636301,
+            "prior_syllables": 0.11767766729463582,
+            "prior_context": 0.11005225262026054
+      },
+      "use": {
+            "prior_all": 0.09787768519159644,
+            "prior_segments": 0.020619208078511166,
+            "prior_syllables": 0.037871013582516634,
+            "prior_context": 0.039387463530568594
+      },
+      "territory": {
+            "prior_all": 0.17085060778098096,
+            "prior_segments": 0.034972837269438825,
+            "prior_syllables": 0.08236088049802266,
+            "prior_context": 0.053516890013519475
+      },
+      "you'll": {
+            "prior_all": 0.10602624075974287,
+            "prior_segments": 0.022913034668067753,
+            "prior_syllables": 0.04079636539950468,
+            "prior_context": 0.04231684069217052
+      },
+      "challenge": {
+            "prior_all": 0.4075720285947796,
+            "prior_segments": 0.13985043450175466,
+            "prior_syllables": 0.1455606994365262,
+            "prior_context": 0.12216089465649815
+      },
+      "us": {
+            "prior_all": 0.17046960277810883,
+            "prior_segments": 0.034813913260592085,
+            "prior_syllables": 0.06426037751870128,
+            "prior_context": 0.07139531199881535
+      },
+      "again": {
+            "prior_all": 0.24105037358140988,
+            "prior_segments": 0.055521442338331777,
+            "prior_syllables": 0.10342608112632595,
+            "prior_context": 0.08210285011675197
+      },
+      "truly": {
+            "prior_all": 0.27239072572060374,
+            "prior_segments": 0.0712503798409064,
+            "prior_syllables": 0.10681166955330675,
+            "prior_context": 0.09432867632639054
+      },
+      "expose": {
+            "prior_all": 0.14784976196356575,
+            "prior_segments": 0.03976628076173338,
+            "prior_syllables": 0.06599867951040146,
+            "prior_context": 0.0420848016914309
+      },
+      "nature": {
+            "prior_all": 0.1303550268718859,
+            "prior_segments": 0.036824972065126645,
+            "prior_syllables": 0.05841542415767735,
+            "prior_context": 0.03511463064908171
+      },
+      "ensure": {
+            "prior_all": 0.13674578021815226,
+            "prior_segments": 0.04114992416565763,
+            "prior_syllables": 0.05589649090632625,
+            "prior_context": 0.03969936514616834
+      },
+      "win": {
+            "prior_all": 0.4543314558290023,
+            "prior_segments": 0.14209033059243675,
+            "prior_syllables": 0.14522477662095898,
+            "prior_context": 0.16701634861560677
+      },
+      "elven": {
+            "prior_all": 0.3847932468772864,
+            "prior_segments": 0.11320869523916649,
+            "prior_syllables": 0.14709200500605657,
+            "prior_context": 0.12449254663206334
+      },
+      "garde": {
+            "prior_all": 0.31555819582800826,
+            "prior_segments": 0.09892955209545587,
+            "prior_syllables": 0.1001164013381506,
+            "prior_context": 0.11651224239440237
+      },
+      "spies": {
+            "prior_all": 0.11944237685530616,
+            "prior_segments": 0.029386222257727884,
+            "prior_syllables": 0.045414319183416235,
+            "prior_context": 0.04464183541416219
+      },
+      "yourselves": {
+            "prior_all": 0.1622950455641384,
+            "prior_segments": 0.043240036165707506,
+            "prior_syllables": 0.06169459252307143,
+            "prior_context": 0.05736041687535925
+      },
+      "expect": {
+            "prior_all": 0.14716380155591802,
+            "prior_segments": 0.03426487370923655,
+            "prior_syllables": 0.06295797163544936,
+            "prior_context": 0.049940956211232235
+      },
+      "get": {
+            "prior_all": 0.3399687480228134,
+            "prior_segments": 0.10394301029195507,
+            "prior_syllables": 0.11418406956040696,
+            "prior_context": 0.12184166817045146
+      },
+      "avantheim": {
+            "prior_all": 0.33194543242036106,
+            "prior_segments": 0.09255091022327153,
+            "prior_syllables": 0.1410101861419962,
+            "prior_context": 0.09838433605509306
+      },
+      "involved": {
+            "prior_all": 0.15533365360813828,
+            "prior_segments": 0.0394719093141732,
+            "prior_syllables": 0.06182799364685966,
+            "prior_context": 0.054033750647105604
+      },
+      "long": {
+            "prior_all": 0.10269414154676951,
+            "prior_segments": 0.028482779582846448,
+            "prior_syllables": 0.03635171477421041,
+            "prior_context": 0.03785964718971259
+      },
+      "planning": {
+            "prior_all": 0.1555060719639946,
+            "prior_segments": 0.04132436269988856,
+            "prior_syllables": 0.06411219856274858,
+            "prior_context": 0.05006951070135791
+      },
+      "once": {
+            "prior_all": 0.12230363640169269,
+            "prior_segments": 0.029238754451026777,
+            "prior_syllables": 0.04752285622327573,
+            "prior_context": 0.04554202572739009
+      },
+      "member": {
+            "prior_all": 0.13832083932599967,
+            "prior_segments": 0.04042695037191496,
+            "prior_syllables": 0.06123993856057837,
+            "prior_context": 0.03665395039350639
+      },
+      "government": {
+            "prior_all": 0.1776615378146108,
+            "prior_segments": 0.04502390315785489,
+            "prior_syllables": 0.07800588564703473,
+            "prior_context": 0.054631749009721196
+      },
+      "formidable": {
+            "prior_all": 0.1861298632410026,
+            "prior_segments": 0.04016947091916459,
+            "prior_syllables": 0.0877964145390122,
+            "prior_context": 0.05816397778282547
+      },
+      "degree": {
+            "prior_all": 0.1439958074708702,
+            "prior_segments": 0.035546534213903844,
+            "prior_syllables": 0.059888494476796963,
+            "prior_context": 0.04856077878016954
+      },
+      "influence": {
+            "prior_all": 0.17006993342077084,
+            "prior_segments": 0.04137042121730362,
+            "prior_syllables": 0.07593056469274138,
+            "prior_context": 0.052768947510725715
+      },
+      "flugel": {
+            "prior_all": 0.2697030897557215,
+            "prior_segments": 0.09436185400535317,
+            "prior_syllables": 0.10065577419848008,
+            "prior_context": 0.074685461551888
+      },
+      "goodness": {
+            "prior_all": 0.15351197336056377,
+            "prior_segments": 0.04206955945722763,
+            "prior_syllables": 0.06006025568002402,
+            "prior_context": 0.05138215822331241
+      },
+      "sake": {
+            "prior_all": 0.10607792399181903,
+            "prior_segments": 0.026015277678767226,
+            "prior_syllables": 0.04163661304002195,
+            "prior_context": 0.03842603327302982
+      },
+      "revenge": {
+            "prior_all": 0.15965890196175192,
+            "prior_segments": 0.04717899726298695,
+            "prior_syllables": 0.061995976881747177,
+            "prior_context": 0.0504839278170181
+      },
+      "immediately": {
+            "prior_all": 0.19428553552722064,
+            "prior_segments": 0.03846530914088523,
+            "prior_syllables": 0.0944542133798938,
+            "prior_context": 0.061366013006441504
+      },
+      "shall": {
+            "prior_all": 0.10347241586766515,
+            "prior_segments": 0.02969521149909557,
+            "prior_syllables": 0.038598510842820066,
+            "prior_context": 0.03517869352574935
+      },
+      "say": {
+            "prior_all": 0.16480417892356283,
+            "prior_segments": 0.04423982246644641,
+            "prior_syllables": 0.05818924548985862,
+            "prior_context": 0.06237511096725792
+      },
+      "death": {
+            "prior_all": 0.10414312615494174,
+            "prior_segments": 0.029471493575370426,
+            "prior_syllables": 0.03749299074949119,
+            "prior_context": 0.03717864183008002
+      },
+      "painless": {
+            "prior_all": 0.1575812165737282,
+            "prior_segments": 0.04160842654242723,
+            "prior_syllables": 0.06387539231310514,
+            "prior_context": 0.052097397718195604
+      },
+      "accept": {
+            "prior_all": 0.14879232485452726,
+            "prior_segments": 0.0400159826540581,
+            "prior_syllables": 0.061631649723216914,
+            "prior_context": 0.047144692477252226
+      },
+      "tired": {
+            "prior_all": 0.1330086138863076,
+            "prior_segments": 0.03096531371860418,
+            "prior_syllables": 0.05732316610518581,
+            "prior_context": 0.04472013406251771
+      },
+      "complicated": {
+            "prior_all": 0.20525629591427108,
+            "prior_segments": 0.0515696154541939,
+            "prior_syllables": 0.09041300688181973,
+            "prior_context": 0.06327367357825767
+      },
+      "schemes": {
+            "prior_all": 0.13570142893542714,
+            "prior_segments": 0.03668722138370138,
+            "prior_syllables": 0.05058530414170325,
+            "prior_context": 0.04842890341002238
+      },
+      "let's": {
+            "prior_all": 0.7683997063202972,
+            "prior_segments": 0.30068904565120014,
+            "prior_syllables": 0.20919240148841337,
+            "prior_context": 0.25851825918068316
+      },
+      "settle": {
+            "prior_all": 0.13607939987557957,
+            "prior_segments": 0.027628349818031004,
+            "prior_syllables": 0.059049683641641794,
+            "prior_context": 0.04940136641590703
+      },
+      "quickly": {
+            "prior_all": 0.14137561474105356,
+            "prior_segments": 0.032397730350907046,
+            "prior_syllables": 0.06041832921495544,
+            "prior_context": 0.04855955517519097
+      },
+      "coin": {
+            "prior_all": 0.2781757469697871,
+            "prior_segments": 0.0849217015970186,
+            "prior_syllables": 0.09448013051095795,
+            "prior_context": 0.09877391486181146
+      },
+      "toss": {
+            "prior_all": 0.27838650879592963,
+            "prior_segments": 0.0626972417429747,
+            "prior_syllables": 0.10735829077859334,
+            "prior_context": 0.10833097627436152
+      },
+      "enough": {
+            "prior_all": 0.13070935220908264,
+            "prior_segments": 0.02859702625813295,
+            "prior_syllables": 0.057391144476874004,
+            "prior_context": 0.044721181474075763
+      },
+      "when": {
+            "prior_all": 0.11707271344093641,
+            "prior_segments": 0.03277154716211561,
+            "prior_syllables": 0.044430382274463553,
+            "prior_context": 0.039870784004357326
+      },
+      "think": {
+            "prior_all": 0.26976572177803515,
+            "prior_segments": 0.11319338829079299,
+            "prior_syllables": 0.08629645096398923,
+            "prior_context": 0.0702758825232534
+      },
+      "half": {
+            "prior_all": 0.09888717924459815,
+            "prior_segments": 0.028584300008797386,
+            "prior_syllables": 0.03368442255021496,
+            "prior_context": 0.03661845668558585
+      },
+      "life": {
+            "prior_all": 0.10088526627641846,
+            "prior_segments": 0.026787879002029252,
+            "prior_syllables": 0.036919058374946,
+            "prior_context": 0.03717832889944301
+      },
+      "comes": {
+            "prior_all": 0.11718209714719943,
+            "prior_segments": 0.030606172309175745,
+            "prior_syllables": 0.04439861496001563,
+            "prior_context": 0.04217730987800821
+      },
+      "hilarious": {
+            "prior_all": 0.19847083915436906,
+            "prior_segments": 0.052250313927549155,
+            "prior_syllables": 0.08703183724483113,
+            "prior_context": 0.059188687981989174
+      },
+      "too": {
+            "prior_all": 0.16368712913021027,
+            "prior_segments": 0.038343334358314114,
+            "prior_syllables": 0.055759099532508204,
+            "prior_context": 0.06958469523938828
+      },
+      "including": {
+            "prior_all": 0.1699722585011437,
+            "prior_segments": 0.04671520595675376,
+            "prior_syllables": 0.07330778673332455,
+            "prior_context": 0.04994926581106555
+      },
+      "island": {
+            "prior_all": 0.14172286830003955,
+            "prior_segments": 0.034916876122571924,
+            "prior_syllables": 0.058210572128135366,
+            "prior_context": 0.04859542004933228
+      },
+      "guarantee": {
+            "prior_all": 0.1765639387756896,
+            "prior_segments": 0.04558366724207173,
+            "prior_syllables": 0.07621012104047857,
+            "prior_context": 0.05477015049313906
+      },
+      "resources": {
+            "prior_all": 0.2915099342905588,
+            "prior_segments": 0.07094907875450142,
+            "prior_syllables": 0.13476071858688243,
+            "prior_context": 0.0858001369491742
+      },
+      "more": {
+            "prior_all": 0.09884619746109059,
+            "prior_segments": 0.023202028819223147,
+            "prior_syllables": 0.036012625079010444,
+            "prior_context": 0.03963154356285665
+      },
+      "concerned": {
+            "prior_all": 0.15221307494764932,
+            "prior_segments": 0.036932737042985636,
+            "prior_syllables": 0.06360866415863695,
+            "prior_context": 0.05167167374602673
+      },
+      "preserving": {
+            "prior_all": 0.18685756856867106,
+            "prior_segments": 0.058632388042209556,
+            "prior_syllables": 0.07939418429953515,
+            "prior_context": 0.04883099622692623
+      },
+      "i've": {
+            "prior_all": 0.07263745098076424,
+            "prior_segments": 0.018570691080186965,
+            "prior_syllables": 0.022402204389489064,
+            "prior_context": 0.03166455551108826
+      },
+      "changed": {
+            "prior_all": 0.4086056297404054,
+            "prior_segments": 0.18628884033081597,
+            "prior_syllables": 0.10064814207057819,
+            "prior_context": 0.12166864733901106
+      },
+      "opinion": {
+            "prior_all": 0.1549000011464941,
+            "prior_segments": 0.04110262313155618,
+            "prior_syllables": 0.06523109186703233,
+            "prior_context": 0.048566286147905945
+      },
+      "started": {
+            "prior_all": 0.14558446406894393,
+            "prior_segments": 0.03511476043249787,
+            "prior_syllables": 0.05811334122240447,
+            "prior_context": 0.05235636241404151
+      },
+      "start": {
+            "prior_all": 0.2971754689281525,
+            "prior_segments": 0.09343980146946662,
+            "prior_syllables": 0.10547912270504911,
+            "prior_context": 0.09825654475363678
+      },
+      "world's": {
+            "prior_all": 0.13346378950303742,
+            "prior_segments": 0.042867307980924765,
+            "prior_syllables": 0.04790466805956636,
+            "prior_context": 0.04269181346254647
+      },
+      "most": {
+            "prior_all": 0.10402200777624206,
+            "prior_segments": 0.028490937897118006,
+            "prior_syllables": 0.03585983588753047,
+            "prior_context": 0.03967123399159357
+      },
+      "brutal": {
+            "prior_all": 0.15382342857077738,
+            "prior_segments": 0.038890237965070795,
+            "prior_syllables": 0.05870392380445458,
+            "prior_context": 0.056229266801252065
+      },
+      "pick": {
+            "prior_all": 0.10049971876862433,
+            "prior_segments": 0.027059675475686978,
+            "prior_syllables": 0.03586956805959312,
+            "prior_context": 0.037570475233343975
+      },
+      "heads": {
+            "prior_all": 0.11997811421477816,
+            "prior_segments": 0.03600727235383968,
+            "prior_syllables": 0.04189474351153248,
+            "prior_context": 0.04207609834940601
+      },
+      "tails": {
+            "prior_all": 0.34930137541004036,
+            "prior_segments": 0.11155860511878087,
+            "prior_syllables": 0.11468394883659438,
+            "prior_context": 0.12305882145466544
+      },
+      "lands": {
+            "prior_all": 0.12931891564888146,
+            "prior_segments": 0.03483567357731673,
+            "prior_syllables": 0.04648628682363339,
+            "prior_context": 0.047996955247931454
+      },
+      "aschente": {
+            "prior_all": 0.1706287481812917,
+            "prior_segments": 0.04810594180202682,
+            "prior_syllables": 0.07225463265971734,
+            "prior_context": 0.050268173719547365
+      },
+      "allowing": {
+            "prior_all": 0.14581713699693774,
+            "prior_segments": 0.0413153019943166,
+            "prior_syllables": 0.057358793563034687,
+            "prior_context": 0.047143041439586315
+      },
+      "grasp": {
+            "prior_all": 0.1351471753943387,
+            "prior_segments": 0.046531604301273115,
+            "prior_syllables": 0.04695725789357066,
+            "prior_context": 0.04165831319949494
+      },
+      "signals": {
+            "prior_all": 0.17074344875424824,
+            "prior_segments": 0.051743110889144975,
+            "prior_syllables": 0.06583463916533239,
+            "prior_context": 0.05316569869977056
+      },
+      "magic": {
+            "prior_all": 0.14155874640301597,
+            "prior_segments": 0.04425333208267676,
+            "prior_syllables": 0.05238860197040063,
+            "prior_context": 0.0449168123499385
+      },
+      "usage": {
+            "prior_all": 0.13102520951756985,
+            "prior_segments": 0.03775152794102754,
+            "prior_syllables": 0.04349267407033906,
+            "prior_context": 0.049781007506203255
+      },
+      "within": {
+            "prior_all": 0.22318458103012337,
+            "prior_segments": 0.07134801890432015,
+            "prior_syllables": 0.07798768663360084,
+            "prior_context": 0.0738488754922023
+      },
+      "range": {
+            "prior_all": 0.12040745510069717,
+            "prior_segments": 0.03962857732031357,
+            "prior_syllables": 0.03934297290834024,
+            "prior_context": 0.041435904872043336
+      },
+      "underestimate": {
+            "prior_all": 0.19143758646390271,
+            "prior_segments": 0.04173562611400032,
+            "prior_syllables": 0.09341961293974298,
+            "prior_context": 0.0562823474101592
+      },
+      "kinetic": {
+            "prior_all": 0.16237838608903934,
+            "prior_segments": 0.039688147835297574,
+            "prior_syllables": 0.06963953605257531,
+            "prior_context": 0.05305070220116658
+      },
+      "vision": {
+            "prior_all": 0.14148404464066258,
+            "prior_segments": 0.04315780120858544,
+            "prior_syllables": 0.05314220062497095,
+            "prior_context": 0.045184042807106084
+      },
+      "wh": {
+            "prior_all": 0.1800031641499592,
+            "prior_segments": 0.05737557361204157,
+            "prior_syllables": 0.04744782034493825,
+            "prior_context": 0.07517977019297954
+      },
+      "draw": {
+            "prior_all": 0.1828796178021358,
+            "prior_segments": 0.049481375591368705,
+            "prior_syllables": 0.07255735903283905,
+            "prior_context": 0.06084088317792821
+      },
+      "coming": {
+            "prior_all": 0.14026927774004033,
+            "prior_segments": 0.04053011535620251,
+            "prior_syllables": 0.05599659786369537,
+            "prior_context": 0.0437425645201423
+      },
+      "problem": {
+            "prior_all": 0.3117478320782659,
+            "prior_segments": 0.11748960526018033,
+            "prior_syllables": 0.10210211554663028,
+            "prior_context": 0.09215611127145547
+      },
+      "which": {
+            "prior_all": 0.3035213058211079,
+            "prior_segments": 0.1043401363949707,
+            "prior_syllables": 0.09050272445877863,
+            "prior_context": 0.10867844496735864
+      },
+      "fooling": {
+            "prior_all": 0.1405761851110547,
+            "prior_segments": 0.04372353351703502,
+            "prior_syllables": 0.05149857118473568,
+            "prior_context": 0.045354080409283855
+      },
+      "anybody": {
+            "prior_all": 0.17015113547544847,
+            "prior_segments": 0.0418110764634534,
+            "prior_syllables": 0.07793507286810183,
+            "prior_context": 0.050404986143893424
+      },
+      "goal": {
+            "prior_all": 0.1807010913092544,
+            "prior_segments": 0.0603804314343112,
+            "prior_syllables": 0.053915549914867335,
+            "prior_context": 0.06640510996007622
+      },
+      "means": {
+            "prior_all": 0.11622055889999798,
+            "prior_segments": 0.03493007247711795,
+            "prior_syllables": 0.041626383911235444,
+            "prior_context": 0.0396641025116447
+      },
+      "demands": {
+            "prior_all": 0.15098206869912037,
+            "prior_segments": 0.0440055810675804,
+            "prior_syllables": 0.05690870565704669,
+            "prior_context": 0.050067781974493145
+      },
+      "fulfilled": {
+            "prior_all": 0.13882884914773236,
+            "prior_segments": 0.04524111218614526,
+            "prior_syllables": 0.05233547876961012,
+            "prior_context": 0.041252258191977184
+      },
+      "assured": {
+            "prior_all": 0.13765282158217526,
+            "prior_segments": 0.0449178953578771,
+            "prior_syllables": 0.05025238963027637,
+            "prior_context": 0.0424825365940216
+      },
+      "keep": {
+            "prior_all": 0.10391152554971127,
+            "prior_segments": 0.033878350459269554,
+            "prior_syllables": 0.039392870943404504,
+            "prior_context": 0.03064030414703719
+      },
+      "self": {
+            "prior_all": 0.12372844175529747,
+            "prior_segments": 0.04073027385208029,
+            "prior_syllables": 0.0419015521330631,
+            "prior_context": 0.041096615770154
+      },
+      "share": {
+            "prior_all": 0.10305684321072103,
+            "prior_segments": 0.03468721315519944,
+            "prior_syllables": 0.03685887286428144,
+            "prior_context": 0.03151075719124016
+      },
+      "continent's": {
+            "prior_all": 0.15135373871380262,
+            "prior_segments": 0.042831909955885185,
+            "prior_syllables": 0.06234683043224516,
+            "prior_context": 0.046174998325672255
+      },
+      "becomes": {
+            "prior_all": 0.1506925742805108,
+            "prior_segments": 0.051133300189061884,
+            "prior_syllables": 0.058832965897099666,
+            "prior_context": 0.04072630819434937
+      },
+      "prefer": {
+            "prior_all": 0.1452240693271553,
+            "prior_segments": 0.04782922331693945,
+            "prior_syllables": 0.05401791591441948,
+            "prior_context": 0.043376930095796434
+      },
+      "weren't": {
+            "prior_all": 0.1386375495320126,
+            "prior_segments": 0.036532575664043734,
+            "prior_syllables": 0.05403270284475856,
+            "prior_context": 0.04807227102321
+      },
+      "destroy": {
+            "prior_all": 0.3839628378675062,
+            "prior_segments": 0.13801797561071077,
+            "prior_syllables": 0.13941437919187435,
+            "prior_context": 0.10653048306492084
+      },
+      "totally": {
+            "prior_all": 0.14363527999818576,
+            "prior_segments": 0.0356378571983067,
+            "prior_syllables": 0.05456835158800603,
+            "prior_context": 0.05342907121187303
+      },
+      "would": {
+            "prior_all": 0.25114366387739356,
+            "prior_segments": 0.09254330895792996,
+            "prior_syllables": 0.07152219135579102,
+            "prior_context": 0.08707816356367278
+      },
+      "animal": {
+            "prior_all": 0.27887664356056535,
+            "prior_segments": 0.07545804537758646,
+            "prior_syllables": 0.11242661243512966,
+            "prior_context": 0.09099198574784906
+      },
+      "paradise": {
+            "prior_all": 0.17892684502925807,
+            "prior_segments": 0.05818072785892541,
+            "prior_syllables": 0.0675025530709843,
+            "prior_context": 0.05324356409934843
+      },
+      "race": {
+            "prior_all": 0.34337501394921294,
+            "prior_segments": 0.13092586046474297,
+            "prior_syllables": 0.09800882498752347,
+            "prior_context": 0.11444032849694653
+      },
+      "filled": {
+            "prior_all": 0.12134553803614305,
+            "prior_segments": 0.039256481684438155,
+            "prior_syllables": 0.03962773720701142,
+            "prior_context": 0.042461319144693484
+      },
+      "ultimate": {
+            "prior_all": 0.25179218520309354,
+            "prior_segments": 0.05942620598245289,
+            "prior_syllables": 0.10087472440144615,
+            "prior_context": 0.09149125481919462
+      },
+      "pretty": {
+            "prior_all": 0.1394120179803084,
+            "prior_segments": 0.04079918697813385,
+            "prior_syllables": 0.05001209594243708,
+            "prior_context": 0.04860073505973739
+      },
+      "animals": {
+            "prior_all": 0.1554130818378245,
+            "prior_segments": 0.044968564273257225,
+            "prior_syllables": 0.060213350067417216,
+            "prior_context": 0.05023116749715006
+      },
+      "hell": {
+            "prior_all": 0.09970091878225461,
+            "prior_segments": 0.03332133385038434,
+            "prior_syllables": 0.033008197931676544,
+            "prior_context": 0.03337138700019365
+      },
+      "treasure": {
+            "prior_all": 0.13663688635306537,
+            "prior_segments": 0.04665902178458383,
+            "prior_syllables": 0.0488200613201377,
+            "prior_context": 0.04115780324834353
+      },
+      "ear": {
+            "prior_all": 0.08436893726620279,
+            "prior_segments": 0.021294974392682145,
+            "prior_syllables": 0.027263707400938805,
+            "prior_context": 0.0358102554725819
+      },
+      "love": {
+            "prior_all": 0.10018466697314954,
+            "prior_segments": 0.029531030444213575,
+            "prior_syllables": 0.03238652596502693,
+            "prior_context": 0.03826711056390906
+      },
+      "cute": {
+            "prior_all": 0.1076714997348567,
+            "prior_segments": 0.03458744812507226,
+            "prior_syllables": 0.03235371252719154,
+            "prior_context": 0.040730339082593194
+      },
+      "justice": {
+            "prior_all": 0.12177820078197255,
+            "prior_segments": 0.03419809170876307,
+            "prior_syllables": 0.04331756714615974,
+            "prior_context": 0.044262541927049634
+      },
+      "playing": {
+            "prior_all": 0.1337063368198343,
+            "prior_segments": 0.0455160412033616,
+            "prior_syllables": 0.04338450036904543,
+            "prior_context": 0.044805795247427116
+      },
+      "hands": {
+            "prior_all": 0.1242866591043481,
+            "prior_segments": 0.04443243048798151,
+            "prior_syllables": 0.040006292614091665,
+            "prior_context": 0.03984793600227493
+      },
+      "secrets": {
+            "prior_all": 0.15154452114001268,
+            "prior_segments": 0.04524150140143028,
+            "prior_syllables": 0.05285135473063449,
+            "prior_context": 0.053451665007947846
+      },
+      "declare": {
+            "prior_all": 0.15740757598238928,
+            "prior_segments": 0.05590676481935471,
+            "prior_syllables": 0.05212850046520637,
+            "prior_context": 0.0493723106978283
+      },
+      "war": {
+            "prior_all": 0.17606933742631597,
+            "prior_segments": 0.059228215974734315,
+            "prior_syllables": 0.051174078700973735,
+            "prior_context": 0.06566704275060802
+      },
+      "someday": {
+            "prior_all": 0.14105374335518225,
+            "prior_segments": 0.04340957731603009,
+            "prior_syllables": 0.05060103647199264,
+            "prior_context": 0.04704312956715966
+      },
+      "kick": {
+            "prior_all": 0.08184143630878213,
+            "prior_segments": 0.02405384538325924,
+            "prior_syllables": 0.02574617919736837,
+            "prior_context": 0.03204141172815459
+      },
+      "asses": {
+            "prior_all": 0.12746798398887735,
+            "prior_segments": 0.042250351474883326,
+            "prior_syllables": 0.04433100357929544,
+            "prior_context": 0.04088662893469853
+      },
+      "spy": {
+            "prior_all": 0.09338795016041418,
+            "prior_segments": 0.031005191495862044,
+            "prior_syllables": 0.02724327317118521,
+            "prior_context": 0.035139485493367
+      },
+      "actually": {
+            "prior_all": 0.1366790763613602,
+            "prior_segments": 0.04936711057396958,
+            "prior_syllables": 0.04453520687491763,
+            "prior_context": 0.04277675891247303
+      },
+      "memories": {
+            "prior_all": 0.27314937685657353,
+            "prior_segments": 0.08497007711758647,
+            "prior_syllables": 0.1108346853428509,
+            "prior_context": 0.07734461439613616
+      },
+      "altered": {
+            "prior_all": 0.1345064498976955,
+            "prior_segments": 0.04423374896179448,
+            "prior_syllables": 0.04365323597358967,
+            "prior_context": 0.04661946496231127
+      },
+      "before": {
+            "prior_all": 0.12416507777295539,
+            "prior_segments": 0.0415715941336307,
+            "prior_syllables": 0.04039458805459719,
+            "prior_context": 0.04219889558472757
+      },
+      "reported": {
+            "prior_all": 0.17754229365875163,
+            "prior_segments": 0.0608194069098809,
+            "prior_syllables": 0.06419409289023634,
+            "prior_context": 0.0525287938586343
+      },
+      "gave": {
+            "prior_all": 0.08780955262374115,
+            "prior_segments": 0.030177919404094516,
+            "prior_syllables": 0.02427233852614204,
+            "prior_context": 0.03335929469350449
+      },
+      "information": {
+            "prior_all": 0.19808008637503224,
+            "prior_segments": 0.06752217892873007,
+            "prior_syllables": 0.0704372495578138,
+            "prior_context": 0.06012065788848835
+      },
+      "reason": {
+            "prior_all": 0.13855383083057538,
+            "prior_segments": 0.04858410000286584,
+            "prior_syllables": 0.051656765727394256,
+            "prior_context": 0.03831296510031545
+      },
+      "fought": {
+            "prior_all": 0.09522929438633908,
+            "prior_segments": 0.033024942413827876,
+            "prior_syllables": 0.028746479358042858,
+            "prior_context": 0.033457872614468406
+      },
+      "kurami": {
+            "prior_all": 0.334704496456527,
+            "prior_segments": 0.14126177932767553,
+            "prior_syllables": 0.11260015759568337,
+            "prior_context": 0.08084255953316767
+      },
+      "alter": {
+            "prior_all": 0.12352764543929792,
+            "prior_segments": 0.04174185130692237,
+            "prior_syllables": 0.04122084507043847,
+            "prior_context": 0.04056494906193716
+      },
+      "day": {
+            "prior_all": 0.08047865193489415,
+            "prior_segments": 0.023518044287216124,
+            "prior_syllables": 0.025681998263830694,
+            "prior_context": 0.03127860938384724
+      },
+      "through": {
+            "prior_all": 0.08718091322789691,
+            "prior_segments": 0.03199046535101167,
+            "prior_syllables": 0.023852389902037377,
+            "prior_context": 0.03133805797484763
+      },
+      "far": {
+            "prior_all": 0.0888990774217928,
+            "prior_segments": 0.030809752294843628,
+            "prior_syllables": 0.02510957209702617,
+            "prior_context": 0.03297975302992309
+      },
+      "checkmate": {
+            "prior_all": 0.2739130537618757,
+            "prior_segments": 0.1060475422049209,
+            "prior_syllables": 0.08806731551093967,
+            "prior_context": 0.07979819604601487
+      },
+      "simply": {
+            "prior_all": 0.14642762406048104,
+            "prior_segments": 0.04622129175479956,
+            "prior_syllables": 0.04987042579852089,
+            "prior_context": 0.05033590650716059
+      },
+      "cornered": {
+            "prior_all": 0.14598834054527843,
+            "prior_segments": 0.05371454126733392,
+            "prior_syllables": 0.05013579586468144,
+            "prior_context": 0.042138003413263014
+      },
+      "enemy": {
+            "prior_all": 0.27307589714802266,
+            "prior_segments": 0.08475310632920889,
+            "prior_syllables": 0.10935176341145025,
+            "prior_context": 0.07897102740736317
+      },
+      "king": {
+            "prior_all": 0.1741593247883159,
+            "prior_segments": 0.06135529567801043,
+            "prior_syllables": 0.04872392665843708,
+            "prior_context": 0.06408010245186843
+      },
+      "declaration": {
+            "prior_all": 0.1867599004412748,
+            "prior_segments": 0.06538468608467327,
+            "prior_syllables": 0.07161364946771595,
+            "prior_context": 0.04976156488888541
+      },
+      "yours": {
+            "prior_all": 0.09908097105264782,
+            "prior_segments": 0.03697134310982523,
+            "prior_syllables": 0.026842612268131148,
+            "prior_context": 0.03526701567469147
+      },
+      "said": {
+            "prior_all": 0.1006730825827805,
+            "prior_segments": 0.035824821091364555,
+            "prior_syllables": 0.03060744123257686,
+            "prior_context": 0.034240820258839046
+      },
+      "first": {
+            "prior_all": 0.11180843422631594,
+            "prior_segments": 0.043010043237866113,
+            "prior_syllables": 0.033743958722223105,
+            "prior_context": 0.03505443226622665
+      },
+      "met": {
+            "prior_all": 0.10026340910995156,
+            "prior_segments": 0.03557861462019361,
+            "prior_syllables": 0.031086769052128944,
+            "prior_context": 0.03359802543762912
+      },
+      "meanie": {
+            "prior_all": 0.1053435997154657,
+            "prior_segments": 0.03198274502240538,
+            "prior_syllables": 0.036919091104970506,
+            "prior_context": 0.036441763588089975
+      },
+      "thousand": {
+            "prior_all": 0.12949354359252782,
+            "prior_segments": 0.05011659569378842,
+            "prior_syllables": 0.04153127537296542,
+            "prior_context": 0.037845672525774046
+      },
+      "four": {
+            "prior_all": 0.08308032678155085,
+            "prior_segments": 0.028219523651695395,
+            "prior_syllables": 0.021572324228011207,
+            "prior_context": 0.033288478901844144
+      },
+      "find": {
+            "prior_all": 0.10874686893114825,
+            "prior_segments": 0.038095466853341434,
+            "prior_syllables": 0.03248455975479657,
+            "prior_context": 0.038166842323010076
+      },
+      "place": {
+            "prior_all": 0.11131806982795849,
+            "prior_segments": 0.04291041418387272,
+            "prior_syllables": 0.03247341307432022,
+            "prior_context": 0.03593424256976554
+      },
+      "stay": {
+            "prior_all": 0.09707950036509462,
+            "prior_segments": 0.03202721154173663,
+            "prior_syllables": 0.02944691165667979,
+            "prior_context": 0.0356053771666783
+      },
+      "learn": {
+            "prior_all": 0.09938598292036928,
+            "prior_segments": 0.03504341290913152,
+            "prior_syllables": 0.028781135556325846,
+            "prior_context": 0.03556143445491204
+      },
+      "tell": {
+            "prior_all": 0.09602713214060492,
+            "prior_segments": 0.02993319924071945,
+            "prior_syllables": 0.028419163371975465,
+            "prior_context": 0.03767476952790999
+      },
+      "would've": {
+            "prior_all": 0.1018246162888263,
+            "prior_segments": 0.044074713171764965,
+            "prior_syllables": 0.025192793955457007,
+            "prior_context": 0.032557109161604224
+      },
+      "taken": {
+            "prior_all": 0.13474147813766718,
+            "prior_segments": 0.04523084684009733,
+            "prior_syllables": 0.04335993867262838,
+            "prior_context": 0.046150692624941356
+      },
+      "piece": {
+            "prior_all": 0.08877725068984553,
+            "prior_segments": 0.029468147663233687,
+            "prior_syllables": 0.026853287216084962,
+            "prior_context": 0.032455815810526874
+      },
+      "yup": {
+            "prior_all": 0.09124549733765236,
+            "prior_segments": 0.031534571306046026,
+            "prior_syllables": 0.0253458199402835,
+            "prior_context": 0.03436510609132271
+      },
+      "simple": {
+            "prior_all": 0.15027710267156072,
+            "prior_segments": 0.057365671838340994,
+            "prior_syllables": 0.04736458173781489,
+            "prior_context": 0.04554684909540473
+      },
+      "straightforward": {
+            "prior_all": 0.1896011061812675,
+            "prior_segments": 0.08262080216191266,
+            "prior_syllables": 0.05742068011545567,
+            "prior_context": 0.04955962390389916
+      },
+      "beat": {
+            "prior_all": 0.3322461384631695,
+            "prior_segments": 0.12294188808296745,
+            "prior_syllables": 0.09159851378511162,
+            "prior_context": 0.11770573659509038
+      },
+      "tet": {
+            "prior_all": 0.07706980954566818,
+            "prior_segments": 0.021681560392951042,
+            "prior_syllables": 0.02369183379487146,
+            "prior_context": 0.03169641535784568
+      },
+      "him": {
+            "prior_all": 0.09299057851323338,
+            "prior_segments": 0.03544533887376353,
+            "prior_syllables": 0.02347397519945639,
+            "prior_context": 0.03407126444001342
+      },
+      "he's": {
+            "prior_all": 0.08928551657327138,
+            "prior_segments": 0.03621090784853291,
+            "prior_syllables": 0.025126395125615774,
+            "prior_context": 0.02794821359912257
+      },
+      "true": {
+            "prior_all": 0.09202653037922945,
+            "prior_segments": 0.03162676341610831,
+            "prior_syllables": 0.024635700758312236,
+            "prior_context": 0.03576406620480888
+      },
+      "god": {
+            "prior_all": 0.24375502845890576,
+            "prior_segments": 0.1019347975094395,
+            "prior_syllables": 0.061880403915186656,
+            "prior_context": 0.07993982703427939
+      },
+      "up": {
+            "prior_all": 0.07784017921191037,
+            "prior_segments": 0.023433317482342647,
+            "prior_syllables": 0.02325249742640465,
+            "prior_context": 0.03115436430316304
+      },
+      "funniest": {
+            "prior_all": 0.14968872065466846,
+            "prior_segments": 0.050197838552534124,
+            "prior_syllables": 0.05650322023632486,
+            "prior_context": 0.042987661865809476
+      },
+      "ideas": {
+            "prior_all": 0.14152396025207517,
+            "prior_segments": 0.05062982869026742,
+            "prior_syllables": 0.04871926993095377,
+            "prior_context": 0.04217486163085408
+      },
+      "dunno": {
+            "prior_all": 0.11544603693895725,
+            "prior_segments": 0.039009936645450285,
+            "prior_syllables": 0.037974147537857654,
+            "prior_context": 0.038461952755649384
+      },
+      "hints": {
+            "prior_all": 0.12716796426231944,
+            "prior_segments": 0.05163257797855546,
+            "prior_syllables": 0.03238009482073639,
+            "prior_context": 0.043155291463027566
+      },
+      "pieces": {
+            "prior_all": 0.45307689706222265,
+            "prior_segments": 0.1986434109556858,
+            "prior_syllables": 0.13483148534042894,
+            "prior_context": 0.11960200076610827
+      },
+      "shaped": {
+            "prior_all": 0.10191296760209978,
+            "prior_segments": 0.04404888827948914,
+            "prior_syllables": 0.024784183856045427,
+            "prior_context": 0.03307989546656524
+      },
+      "second": {
+            "prior_all": 0.14561226387057968,
+            "prior_segments": 0.058140223868155434,
+            "prior_syllables": 0.04348316367192148,
+            "prior_context": 0.043988876330502615
+      },
+      "third": {
+            "prior_all": 0.08414244346823208,
+            "prior_segments": 0.03555830254280961,
+            "prior_syllables": 0.021214783421769693,
+            "prior_context": 0.02736935750365279
+      },
+      "those": {
+            "prior_all": 0.08272723740718253,
+            "prior_segments": 0.03157394555282992,
+            "prior_syllables": 0.020426096964994138,
+            "prior_context": 0.030727194889358458
+      },
+      "things": {
+            "prior_all": 0.09717291036562038,
+            "prior_segments": 0.044038101509280905,
+            "prior_syllables": 0.02264054730287277,
+            "prior_context": 0.030494261553466784
+      },
+      "horizon": {
+            "prior_all": 0.1504720614084824,
+            "prior_segments": 0.06132244863716344,
+            "prior_syllables": 0.05144455904765349,
+            "prior_context": 0.03770505372366554
+      },
+      "gathering": {
+            "prior_all": 0.14320389280681353,
+            "prior_segments": 0.05824047655221815,
+            "prior_syllables": 0.04674678899158551,
+            "prior_context": 0.038216627263009784
+      },
+      "gives": {
+            "prior_all": 0.10237981959151124,
+            "prior_segments": 0.04659061432768699,
+            "prior_syllables": 0.02586294266676491,
+            "prior_context": 0.029926262597059387
+      },
+      "nope": {
+            "prior_all": 0.0878855747129201,
+            "prior_segments": 0.03481430343790589,
+            "prior_syllables": 0.021966186346446256,
+            "prior_context": 0.031105084928567953
+      },
+      "go": {
+            "prior_all": 0.06158832965272653,
+            "prior_segments": 0.021348797840885735,
+            "prior_syllables": 0.014345802235481998,
+            "prior_context": 0.02589372957635876
+      },
+      "against": {
+            "prior_all": 0.1380842578472995,
+            "prior_segments": 0.052640148430194426,
+            "prior_syllables": 0.04406948062029052,
+            "prior_context": 0.04137462879681463
+      },
+      "played": {
+            "prior_all": 0.09973295967269494,
+            "prior_segments": 0.043337846462835505,
+            "prior_syllables": 0.02354766673593792,
+            "prior_context": 0.032847446473921404
+      },
+      "five": {
+            "prior_all": 0.08138575424846767,
+            "prior_segments": 0.03413698546645076,
+            "prior_syllables": 0.020090075003181575,
+            "prior_context": 0.027158693778835313
+      },
+      "challenged": {
+            "prior_all": 0.15389160453928752,
+            "prior_segments": 0.07046655959764472,
+            "prior_syllables": 0.04210848780606825,
+            "prior_context": 0.04131655713557445
+      },
+      "party": {
+            "prior_all": 0.12606936169374006,
+            "prior_segments": 0.053624745503139414,
+            "prior_syllables": 0.03562081087146397,
+            "prior_context": 0.036823805319136683
+      },
+      "decide": {
+            "prior_all": 0.11669654617094298,
+            "prior_segments": 0.0486730184302452,
+            "prior_syllables": 0.0356821244402378,
+            "prior_context": 0.03234140330046003
+      },
+      "followed": {
+            "prior_all": 0.12117399465937777,
+            "prior_segments": 0.05456433072225298,
+            "prior_syllables": 0.03355525940207668,
+            "prior_context": 0.03305440453504799
+      },
+      "previous": {
+            "prior_all": 0.14998619623539533,
+            "prior_segments": 0.06410576998691336,
+            "prior_syllables": 0.04817487465768596,
+            "prior_context": 0.03770555159079569
+      },
+      "play": {
+            "prior_all": 0.1564871929300214,
+            "prior_segments": 0.06877586516006884,
+            "prior_syllables": 0.035095996979530884,
+            "prior_context": 0.05261533079042181
+      },
+      "together": {
+            "prior_all": 0.37253565817487916,
+            "prior_segments": 0.15476314919265932,
+            "prior_syllables": 0.11383271697776826,
+            "prior_context": 0.10393979200445147
+      },
+      "pledge": {
+            "prior_all": 0.08983508615813592,
+            "prior_segments": 0.042664771590516924,
+            "prior_syllables": 0.018845765666000627,
+            "prior_context": 0.0283245489016184
+      },
+      "c": {
+            "prior_all": 0.14084159318695202,
+            "prior_segments": 0.050961575983181434,
+            "prior_syllables": 0.036206358257948955,
+            "prior_context": 0.053673658945821615
+      },
+      "hfff": {
+            "prior_all": 0.0996352447305626,
+            "prior_segments": 0.04435102493708913,
+            "prior_syllables": 0.02866390640052222,
+            "prior_context": 0.026620313392951293
+      },
+      "eight": {
+            "prior_all": 0.14076415900607217,
+            "prior_segments": 0.04846495708990169,
+            "prior_syllables": 0.03648500104510429,
+            "prior_context": 0.05581420087106622
+      },
+      "century": {
+            "prior_all": 0.1364484832816024,
+            "prior_segments": 0.0662098558295694,
+            "prior_syllables": 0.04484135497537931,
+            "prior_context": 0.025397272476653604
+      },
+      "hbdeacaplay": {
+            "prior_all": 0.18009430030667772,
+            "prior_segments": 0.08881040273752223,
+            "prior_syllables": 0.049006550067795855,
+            "prior_context": 0.0422773475013598
+      },
+      "steal": {
+            "prior_all": 0.10217813493262953,
+            "prior_segments": 0.04308026021337102,
+            "prior_syllables": 0.023458746963118938,
+            "prior_context": 0.03563912775613961
+      },
+      "other's": {
+            "prior_all": 0.10186788099847034,
+            "prior_segments": 0.04181906305946413,
+            "prior_syllables": 0.029186518412777848,
+            "prior_context": 0.030862299526228286
+      },
+      "build": {
+            "prior_all": 0.09892187328888646,
+            "prior_segments": 0.044407992471772934,
+            "prior_syllables": 0.02371985683079038,
+            "prior_context": 0.030794023986323183
+      },
+      "tower": {
+            "prior_all": 0.08988749600298243,
+            "prior_segments": 0.03475878863904579,
+            "prior_syllables": 0.02702658739960783,
+            "prior_context": 0.028102119964328782
+      },
+      "wisdom": {
+            "prior_all": 0.2586204293625583,
+            "prior_segments": 0.11921413962898522,
+            "prior_syllables": 0.06882928010359786,
+            "prior_context": 0.07057700962997507
+      },
+      "disboard": {
+            "prior_all": 0.1314510973779705,
+            "prior_segments": 0.06113608069050289,
+            "prior_syllables": 0.03367609367649187,
+            "prior_context": 0.03663892301097588
+      },
+      "prove": {
+            "prior_all": 0.08747895345516477,
+            "prior_segments": 0.043647312239476495,
+            "prior_syllables": 0.017120913560977096,
+            "prior_context": 0.02671072765471119
+      },
+      "at": {
+            "prior_all": 0.06885552325065206,
+            "prior_segments": 0.023653081704650938,
+            "prior_syllables": 0.01733659289552613,
+            "prior_context": 0.027865848650474957
+      },
+      "wonderful": {
+            "prior_all": 0.15328597998825746,
+            "prior_segments": 0.0696172322580529,
+            "prior_syllables": 0.044173460405769645,
+            "prior_context": 0.039495287324434934
+      },
+      "getting": {
+            "prior_all": 0.11314688092700075,
+            "prior_segments": 0.049481010236896605,
+            "prior_syllables": 0.03029227832514479,
+            "prior_context": 0.033373592364959286
+      },
+      "bring": {
+            "prior_all": 0.09296124505254753,
+            "prior_segments": 0.04614201984766424,
+            "prior_syllables": 0.020318701758269712,
+            "prior_context": 0.026500523446613612
+      },
+      "waiting": {
+            "prior_all": 0.11586575521310401,
+            "prior_segments": 0.05160912241237938,
+            "prior_syllables": 0.030632385588164217,
+            "prior_context": 0.033624247212560354
+      },
+      "races": {
+            "prior_all": 0.11602454847269093,
+            "prior_segments": 0.056627096819786595,
+            "prior_syllables": 0.029677386746221023,
+            "prior_context": 0.029720064906683424
+      },
+      "tow": {
+            "prior_all": 0.0675228997965759,
+            "prior_segments": 0.024602947251347086,
+            "prior_syllables": 0.01590655132819655,
+            "prior_context": 0.027013401217032277
+      },
+      "though": {
+            "prior_all": 0.05693247793674203,
+            "prior_segments": 0.02108016717632407,
+            "prior_syllables": 0.012771214292273876,
+            "prior_context": 0.023081096468144116
+      },
+      "imanity": {
+            "prior_all": 0.15732844481948105,
+            "prior_segments": 0.06578062805316558,
+            "prior_syllables": 0.053742579900723626,
+            "prior_context": 0.037805236865591806
+      },
+      "still": {
+            "prior_all": 0.17499271243184253,
+            "prior_segments": 0.08410512181984163,
+            "prior_syllables": 0.03580974572917855,
+            "prior_context": 0.05507784488282232
+      },
+      "defeat": {
+            "prior_all": 0.11563163703355488,
+            "prior_segments": 0.05664458378991088,
+            "prior_syllables": 0.02890662437891843,
+            "prior_context": 0.03008042886472562
+      },
+      "surpass": {
+            "prior_all": 0.09773609712189948,
+            "prior_segments": 0.04582726158046516,
+            "prior_syllables": 0.026513151787072926,
+            "prior_context": 0.02539568375436144
+      },
+      "fly": {
+            "prior_all": 0.07309241121550362,
+            "prior_segments": 0.03301779851018357,
+            "prior_syllables": 0.014804401383075802,
+            "prior_context": 0.025270211322244284
+      },
+      "darkness": {
+            "prior_all": 0.13554364911291314,
+            "prior_segments": 0.0733725317033914,
+            "prior_syllables": 0.029978120034595747,
+            "prior_context": 0.03219299737492604
+      },
+      "am": {
+            "prior_all": 0.06108750827800047,
+            "prior_segments": 0.02490734503574211,
+            "prior_syllables": 0.014088527822835354,
+            "prior_context": 0.022091635419422977
+      },
+      "little": {
+            "prior_all": 0.10070267275071489,
+            "prior_segments": 0.042898417344926616,
+            "prior_syllables": 0.02789023900098872,
+            "prior_context": 0.02991401640479951
+      },
+      "maybe": {
+            "prior_all": 0.08222176431762193,
+            "prior_segments": 0.04359475287764514,
+            "prior_syllables": 0.024724524678576977,
+            "prior_context": 0.013902486761399794
+      },
+      "course": {
+            "prior_all": 0.08109043563868204,
+            "prior_segments": 0.04228485962924521,
+            "prior_syllables": 0.014219497406805625,
+            "prior_context": 0.024586078602631144
+      },
+      "we've": {
+            "prior_all": 0.06510668886930668,
+            "prior_segments": 0.03214912343886796,
+            "prior_syllables": 0.011624735451815783,
+            "prior_context": 0.021332829978622996
+      },
+      "wondering": {
+            "prior_all": 0.1348444431655526,
+            "prior_segments": 0.07187214723240151,
+            "prior_syllables": 0.03631371959486842,
+            "prior_context": 0.026658576338282742
+      },
+      "power": {
+            "prior_all": 0.139687330814864,
+            "prior_segments": 0.060435111788082876,
+            "prior_syllables": 0.03982112491337984,
+            "prior_context": 0.039431094113401274
+      },
+      "divine": {
+            "prior_all": 0.10243942573731436,
+            "prior_segments": 0.054073604988662385,
+            "prior_syllables": 0.024859048630063614,
+            "prior_context": 0.02350677211858831
+      },
+      "core": {
+            "prior_all": 0.06231761376572565,
+            "prior_segments": 0.030786561796736823,
+            "prior_syllables": 0.010727815151473521,
+            "prior_context": 0.02080323681751528
+      },
+      "manifestation": {
+            "prior_all": 0.17961225617206997,
+            "prior_segments": 0.09828839801012067,
+            "prior_syllables": 0.0554287705438092,
+            "prior_context": 0.025895087618140123
+      },
+      "mind": {
+            "prior_all": 0.07821264745853079,
+            "prior_segments": 0.0425728217666261,
+            "prior_syllables": 0.012787485359269567,
+            "prior_context": 0.022852340332635064
+      },
+      "meld": {
+            "prior_all": 0.0771474352377872,
+            "prior_segments": 0.041912293058317,
+            "prior_syllables": 0.012544979960925646,
+            "prior_context": 0.022690162218544575
+      },
+      "established": {
+            "prior_all": 0.12794997432992516,
+            "prior_segments": 0.0707656935933556,
+            "prior_syllables": 0.03373977924262586,
+            "prior_context": 0.02344450149394367
+      },
+      "setting": {
+            "prior_all": 0.0960211096346287,
+            "prior_segments": 0.05149924512523159,
+            "prior_syllables": 0.022068748049867748,
+            "prior_context": 0.02245311645952935
+      },
+      "minimal": {
+            "prior_all": 0.10632270960782267,
+            "prior_segments": 0.05190119840856573,
+            "prior_syllables": 0.03205572756568172,
+            "prior_context": 0.022365783633575158
+      },
+      "finite": {
+            "prior_all": 0.08367184113210041,
+            "prior_segments": 0.04142543182331452,
+            "prior_syllables": 0.021103029664841923,
+            "prior_context": 0.021143379643943992
+      },
+      "lifespans": {
+            "prior_all": 0.12441841711142565,
+            "prior_segments": 0.08163332899859561,
+            "prior_syllables": 0.021460500012083217,
+            "prior_context": 0.0213245881007468
+      },
+      "deus": {
+            "prior_all": 0.12027941625212005,
+            "prior_segments": 0.06016413998008,
+            "prior_syllables": 0.020507680507960004,
+            "prior_context": 0.03960759576408
+      },
+      "exceed": {
+            "prior_all": 0.09342777730200004,
+            "prior_segments": 0.05117535800400002,
+            "prior_syllables": 0.021280051294000006,
+            "prior_context": 0.020972368004000003
+      },
+      "rank": {
+            "prior_all": 0.07090769059999999,
+            "prior_segments": 0.040405859999999995,
+            "prior_syllables": 0.010300910199999999,
+            "prior_context": 0.02020092040000001
+      },
+      "begin": {
+            "prior_all": 0.08020000000000002,
+            "prior_segments": 0.04020000000000001,
+            "prior_syllables": 0.020200000000000003,
+            "prior_context": 0.019800000000000005
+      }
+}

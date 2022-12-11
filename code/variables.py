@@ -61,9 +61,9 @@ def get_all_cues(weight_matrix, outcome, per_domain = False):
     else:
         return all_cues
 
-def get_predicting_cues(event_files, outcome, per_domain = False):
+def get_all_predicting_cues(event_files, outcome, per_domain = False, no_context = False):
     """Get all predicting cues, or all predicting cues per domain (context, syllables, segment)
-    of an outcome from event files.
+    of an outcome from event files. GETS ALL CUES FORM ALL EVENTS, NOT JUST ONE. 
 
     Input:
     -----
@@ -73,6 +73,8 @@ def get_predicting_cues(event_files, outcome, per_domain = False):
         The word that the predicting cues should be retrieved for.
     per_domain - bool
         Whether to sort the predicting cues per domain.
+    no_context - bool
+        Whether to only return the segments and syllable cues. 
 
     Output:
     -------
@@ -81,16 +83,33 @@ def get_predicting_cues(event_files, outcome, per_domain = False):
     domain_cues - dict
         A dict of the predicting cues for each domain for the given outcome, taken from the event files.
     """
-    predicting_cues = []
-    for file in event_files:
-        outcomes = file['outcomes'].tolist()
-        for index, word in enumerate(outcomes):
-            if word == outcome:
-                cues = file.at[index, 'cues']
-                cues = cues.split('_')
-                for cue in cues:
-                    if cue not in predicting_cues:
-                        predicting_cues.extend(cues)
+    
+    # Only look for the outcome once to find an return only syllable and segment cues.
+    if no_context: 
+        predicting_cues = []
+        for file in event_files:
+            outcomes = file['outcomes'].tolist()
+            for index, word in enumerate(outcomes):
+                if word == outcome:
+                    cues = file.at[index, 'cues']
+                    cues = cues.split('_')
+                    for cue in cues:
+                        if cue.startswith('y.') or cue.startswith('s.'):
+                            predicting_cues.append(cue)
+                    return list(set(predicting_cues))
+                
+    # Look for all context cues for the outcome. 
+    else:
+        predicting_cues = []
+        for file in event_files:
+            outcomes = file['outcomes'].tolist()
+            for index, word in enumerate(outcomes):
+                if word == outcome:
+                    cues = file.at[index, 'cues']
+                    cues = cues.split('_')
+                    for cue in cues:
+                        if cue not in predicting_cues:
+                            predicting_cues.extend(cues)
 
     if per_domain:
         context = [cue for cue in predicting_cues if cue.startswith('c.')]
@@ -102,18 +121,18 @@ def get_predicting_cues(event_files, outcome, per_domain = False):
 
     else:
         return predicting_cues
-
+    
 def sum_domain_cues(weight_matrix, cues, outcome):
     """ Given a dict of cues, for each domain, sum the weights of the cues to a given outcome and return them
     in a dict.
     """
-    context = [np.absolute(weight_matrix.at[cue, outcome]) for cue in cues['Context cues: '] if cue.startswith('c.')]
+    context = [weight_matrix.at[cue, outcome] for cue in cues['Context cues: '] if cue.startswith('c.')]
     prior_context = sum(context)
 
-    segments = [np.absolute(weight_matrix.at[cue, outcome]) for cue in cues['Segment cues: '] if cue.startswith('s.')]
+    segments = [weight_matrix.at[cue, outcome] for cue in cues['Segment cues: '] if cue.startswith('s.')]
     prior_segments = sum(segments)
 
-    syllables = [np.absolute(weight_matrix.at[cue, outcome]) for cue in cues['Syllable cues: '] if cue.startswith('y.')]
+    syllables = [weight_matrix.at[cue, outcome] for cue in cues['Syllable cues: '] if cue.startswith('y.')]
     prior_syllables = sum(syllables)
 
     all_prior = {'Segment': prior_segments, 'Syllable': prior_syllables, 'Context': prior_context}
@@ -165,7 +184,8 @@ def get_prior(weight_matrix, word_outcome, domain_specific = False):
 def get_activation(weight_matrix,  event_files, word_outcome, cues = None, domain_specific = False):
     """Calculates activation for an outcome.
     Given a list of cues that, in the event files that the model was trained with, predict the outcome, sum the weights
-    of those cues to the given outcome. Either per domain, or all together.
+    of those cues to the given outcome. Either per domain, or all together. USES THE FUNCTION THAT GETS ALL CUES OVER ALL
+    LEARNING EVENTS.
 
     Input:
     -----
@@ -210,11 +230,72 @@ def get_activation(weight_matrix,  event_files, word_outcome, cues = None, domai
 
         for cue in cues:
             weight = weight_matrix.at[cue, outcome]
-            all_weights.append(np.absolute(weight))
+            all_weights.append(weight)
 
         activation = sum(all_weights)
         return activation
+    
+def activation(word_outcome, event_files, weight_matrix, c1, c2 = None, domain_specific = False):
+    """Returns activation for a specific learning event.
+    Input:
+    -----
+    weight_matrix - pandas.DataFrame
+        A weight matrix from a trained NDL model that has a column containing the sums of the cue vectors
+        called 'cue_sums', and a row containing the sums of the outcome vectors called 'outcome_sums'.
+    word_outcome - str
+        An outcome from the weight matrix.
+    c1 - str
+        A cue-tagged string 'c.it'
+    c2 - str
+        An optional second cue-tagged string
+    domain_specific - bool
+        Whether the activation is retrieved per domain or from all domains together. Default is None.
+    event_files - list
+         A list of event files. Default is None.
 
+    Output:
+    -------
+    activation - float
+        The activation for a given outcome.
+    all_activation - dict
+        A dict of the activations for each domain.
+    """
+    
+    # Check if the outcome is the weight_matrix.
+    if is_outcome(weight_matrix = weight_matrix, outcome = word_outcome):
+        outcome = word_outcome
+    else:
+        return 'The word ' + word_outcome + ' is not in the outcomes of the weight matrix.'
+    
+    # Get the syllable and segments cues for the outcome. 
+    cues = get_all_predicting_cues(event_files = event_files, outcome = outcome, per_domain = False, no_context = True)
+    
+    if domain_specific: 
+        segments = [cue for cue in cues if cue.startswith('s.')]
+        syllables = [cue for cue in cues if cue.startswith('y.')]
+        if c2: 
+            context = c1 + '_' + c2
+        else: 
+            context = c1
+        domain_cues = {'Segment cues: ': segments, 'Syllable cues: ': syllables, 'Context cues: ': context}
+        
+        all_activation = sum_domain_cues(weight_matrix = weight_matrix, cues = domain_cues, outcome = outcome)
+        return all_activation
+        
+    else:
+        all_weights = [] 
+        cues.append(c1) # A pretty ugly solution for a problem I was having.
+        if c2: 
+            cues.append(c2)
+        
+        for cue in cues:
+            weight = weight_matrix.at[cue, outcome]
+            all_weights.append(weight)   
+        activation = sum(all_weights)
+        
+        return activation
+    
+    
 def get_activation_diversity(weight_matrix, event_files, input_word):
     """ Calculate activation diversity for an input word (cue).
     For a given cue, get the activations of the outcomes the cue is connected to and sum them.
